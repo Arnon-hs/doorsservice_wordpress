@@ -1,0 +1,614 @@
+# Copyright (C) 2020 Makenzie Lite WordPress Theme
+# This file is distributed under the same license as the Makenzie Lite WordPress Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Makenzie Lite WordPress Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPlook Themes wplook.com\n"
+"Last-Translator: Victor Tihai victor@wplook.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:32
+msgid "One comment on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+msgid "%1$s comments on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:12
+msgid "Copyright 2020. All Rights reserved."
+msgstr ""
+
+#: footer.php:46
+msgid "https://wplook.com/"
+msgstr ""
+
+#: footer.php:48
+msgid "Made with %1$s by %2$s"
+msgstr ""
+
+#: footer.php:48
+msgid "WPlook Themes"
+msgstr ""
+
+#: functions.php:57
+msgid "Header 1 & 2 Menu"
+msgstr ""
+
+#: functions.php:58
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:59
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:180
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:181
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:284
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: searchform.php:11
+msgid "Type & Hit Enter ..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Submit"
+msgstr ""
+
+#: single.php:35
+msgid "Next Article"
+msgstr ""
+
+#: single.php:36
+msgid "Next post:"
+msgstr ""
+
+#: single.php:38
+msgid "Previous Article"
+msgstr ""
+
+#: single.php:39
+msgid "Previous post:"
+msgstr ""
+
+#: template-blog.php:3
+msgid "Blog"
+msgstr ""
+
+#: template-fullwidth.php:3
+msgid "Full Width"
+msgstr ""
+
+#: template-home.php:3
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "on %s"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Tagged in : %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:54
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:61, template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgid "Newer"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgid "Older"
+msgstr ""
+
+#: inc/theme-options.php:17
+msgid "Colors"
+msgstr ""
+
+#: inc/theme-options.php:22
+msgid "Accent Color"
+msgstr ""
+
+#: inc/theme-options.php:29
+msgid "Text Link Color"
+msgstr ""
+
+#: inc/theme-options.php:36
+msgid "Text Link Color Hover"
+msgstr ""
+
+#: inc/theme-options.php:46
+msgid "- Toolbar Options & Colors"
+msgstr ""
+
+#: inc/theme-options.php:52, inc/theme-options.php:63, inc/theme-options.php:74, inc/theme-options.php:85, inc/theme-options.php:237, inc/theme-options.php:248, inc/theme-options.php:510, inc/theme-options.php:597
+msgid "On"
+msgstr ""
+
+#: inc/theme-options.php:53, inc/theme-options.php:64, inc/theme-options.php:75, inc/theme-options.php:86, inc/theme-options.php:238, inc/theme-options.php:249, inc/theme-options.php:511, inc/theme-options.php:598
+msgid "Off"
+msgstr ""
+
+#: inc/theme-options.php:55
+msgid "Display Toolbar"
+msgstr ""
+
+#: inc/theme-options.php:66, inc/theme-options.php:251
+msgid "Display Social Icons"
+msgstr ""
+
+#: inc/theme-options.php:77
+msgid "Display Menu"
+msgstr ""
+
+#: inc/theme-options.php:88
+msgid "Display Search Field"
+msgstr ""
+
+#: inc/theme-options.php:96, inc/theme-options.php:522, inc/theme-options.php:609
+msgid "Left"
+msgstr ""
+
+#: inc/theme-options.php:97
+msgid "Center"
+msgstr ""
+
+#: inc/theme-options.php:98, inc/theme-options.php:521, inc/theme-options.php:608
+msgid "Right"
+msgstr ""
+
+#: inc/theme-options.php:100
+msgid "Top Bar Menu Alignment"
+msgstr ""
+
+#: inc/theme-options.php:107
+msgid "Toolbar Padding"
+msgstr ""
+
+#: inc/theme-options.php:114
+msgid "Toolbar Sub-Nav Margin-Top"
+msgstr ""
+
+#: inc/theme-options.php:121
+msgid "Toolbar Background Color"
+msgstr ""
+
+#: inc/theme-options.php:128
+msgid "Toolbar Text Color"
+msgstr ""
+
+#: inc/theme-options.php:135
+msgid "Toolbar Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:142
+msgid "Toolbar Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:149
+msgid "Toolbar Sub-Nav Background Color"
+msgstr ""
+
+#: inc/theme-options.php:156
+msgid "Toolbar Sub-Nav Border Color"
+msgstr ""
+
+#: inc/theme-options.php:163
+msgid "Toolbar Sub-Nav Separator Color"
+msgstr ""
+
+#: inc/theme-options.php:170
+msgid "Toolbar Sub-Nav Text Color"
+msgstr ""
+
+#: inc/theme-options.php:177
+msgid "Toolbar Sub-Nav Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:184
+msgid "Toolbar Sub-Nav Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:191
+msgid "Toolbar Social Icons Color"
+msgstr ""
+
+#: inc/theme-options.php:198
+msgid "Toolbar Social Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:205
+msgid "Toolbar Search Text Color"
+msgstr ""
+
+#: inc/theme-options.php:212
+msgid "Toolbar Search Text Active Color"
+msgstr ""
+
+#: inc/theme-options.php:221
+msgid "- Header Options & Colors"
+msgstr ""
+
+#: inc/theme-options.php:227
+msgid "Header 1"
+msgstr ""
+
+#: inc/theme-options.php:229
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme-options.php:240
+msgid "Display Search Box"
+msgstr ""
+
+#: inc/theme-options.php:259
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/theme-options.php:266
+msgid "Header 2 Navigation Background Color"
+msgstr ""
+
+#: inc/theme-options.php:273
+msgid "Header 2 Navigation Border Color"
+msgstr ""
+
+#: inc/theme-options.php:280
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/theme-options.php:287
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/theme-options.php:294
+msgid "Header Social Icons Color"
+msgstr ""
+
+#: inc/theme-options.php:301
+msgid "Header Social Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:308
+msgid "Header Search Text Color"
+msgstr ""
+
+#: inc/theme-options.php:315
+msgid "Header Search Text Active Color"
+msgstr ""
+
+#: inc/theme-options.php:322
+msgid "Header Search Background Color"
+msgstr ""
+
+#: inc/theme-options.php:329
+msgid "Desktop Navigation Text Color"
+msgstr ""
+
+#: inc/theme-options.php:336
+msgid "Desktop Navigation Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:343
+msgid "Desktop Navigation Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:350
+msgid "Desktop Sub-Nav Background Color"
+msgstr ""
+
+#: inc/theme-options.php:357
+msgid "Desktop Sub-Nav Border Color"
+msgstr ""
+
+#: inc/theme-options.php:364
+msgid "Desktop Sub-Nav Separator Color"
+msgstr ""
+
+#: inc/theme-options.php:371
+msgid "Desktop Sub-Nav Text Color"
+msgstr ""
+
+#: inc/theme-options.php:378
+msgid "Desktop Sub-Nav Hover/Active Text Color"
+msgstr ""
+
+#: inc/theme-options.php:385
+msgid "Desktop Sub-Nav Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:392
+msgid "Mobile Menu Toggle Color"
+msgstr ""
+
+#: inc/theme-options.php:399
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: inc/theme-options.php:406
+msgid "Mobile Menu Text Color"
+msgstr ""
+
+#: inc/theme-options.php:413
+msgid "Mobile Menu Hover / Current Text Color"
+msgstr ""
+
+#: inc/theme-options.php:420
+msgid "Mobile Menu Separator Color"
+msgstr ""
+
+#: inc/theme-options.php:427
+msgid "Mobile Menu Arrow Color"
+msgstr ""
+
+#: inc/theme-options.php:434
+msgid "Mobile Social Icons Color"
+msgstr ""
+
+#: inc/theme-options.php:441
+msgid "Mobile Social Icons Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:448
+msgid "Mobile Search Text Color"
+msgstr ""
+
+#: inc/theme-options.php:455
+msgid "Mobile Search Text Active Color"
+msgstr ""
+
+#: inc/theme-options.php:465
+msgid "- Other Options"
+msgstr ""
+
+#: inc/theme-options.php:471
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/theme-options.php:472
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/theme-options.php:474
+msgid "Wide / Boxed Layout"
+msgstr ""
+
+#: inc/theme-options.php:481
+msgid "Boxed Layout Spacing Top"
+msgstr ""
+
+#: inc/theme-options.php:488
+msgid "Boxed Layout Border Radius"
+msgstr ""
+
+#: inc/theme-options.php:496
+msgid "Listing Style 1"
+msgstr ""
+
+#: inc/theme-options.php:497
+msgid "Listing Style 2"
+msgstr ""
+
+#: inc/theme-options.php:498
+msgid "Listing Style 3"
+msgstr ""
+
+#: inc/theme-options.php:499
+msgid "Listing Style 4"
+msgstr ""
+
+#: inc/theme-options.php:500
+msgid "Listing Style 5"
+msgstr ""
+
+#: inc/theme-options.php:502
+msgid "Posts Listing Style (Blog Template)"
+msgstr ""
+
+#: inc/theme-options.php:513, inc/theme-options.php:600
+msgid "Sidebar On/Off"
+msgstr ""
+
+#: inc/theme-options.php:524, inc/theme-options.php:611
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/theme-options.php:534
+msgid "- Social Icons"
+msgstr ""
+
+#: inc/theme-options.php:539
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:546
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:553
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/theme-options.php:560
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/theme-options.php:567
+msgid "Behance URL"
+msgstr ""
+
+#: inc/theme-options.php:574
+msgid "Etsy URL"
+msgstr ""
+
+#: inc/theme-options.php:581
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/theme-options.php:591
+msgid "- Single Post Layout Options"
+msgstr ""
+
+#: inc/theme-options.php:620
+msgid "- Footer Options"
+msgstr ""
+
+#: inc/theme-options.php:625
+msgid "Footer Text Left"
+msgstr ""
+
+#: template-parts/about-author.php:13
+msgid "About the author"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:64
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:65, template-parts/listing/post-first.php:45, template-parts/listing/post-s1.php:47, template-parts/listing/post-s2.php:45, template-parts/listing/post-s3.php:45, template-parts/listing/post-s4.php:45, template-parts/listing/post-s5.php:45, template-parts/header/sliders/slider-1.php:59
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/pro/class-customize.php:76
+msgid "MAKENZIE PRO"
+msgstr ""
+
+#: inc/pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/widgets/widget-init.php:12
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-init.php:14, inc/widgets/widget-init.php:25
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widget-init.php:23
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-init.php:39
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:40
+msgid "Drag and Drop widgets to footer widget area."
+msgstr ""
+
+#: template-parts/header/template-title.php:13, template-parts/header/template-title.php:27
+msgid "Browsing Category: "
+msgstr ""
+
+#: template-parts/header/template-title.php:15
+msgid "Browsing Tag: "
+msgstr ""
+
+#: template-parts/header/template-title.php:17
+msgid "All Posts By: "
+msgstr ""
+
+#: template-parts/header/template-title.php:19
+msgid "Browsing Year: "
+msgstr ""
+
+#: template-parts/header/template-title.php:21
+msgid "Browsing Month: "
+msgstr ""
+
+#: template-parts/header/template-title.php:23
+msgid "Browsing Day: "
+msgstr ""
+
+#: template-parts/header/template-title.php:25
+msgid "Browsing Post: "
+msgstr ""
+
+#: template-parts/header/template-title.php:29
+msgid "Search Results For: "
+msgstr ""
+
+#: template-parts/header/template-title.php:31
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/header/headers/header-1.php:34
+msgid "Follow us!"
+msgstr ""

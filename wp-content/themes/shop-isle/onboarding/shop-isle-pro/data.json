@@ -1,0 +1,185 @@
+{
+  "content_file": "https://demo.themeisle.com/shop-isle-pro/wp-content/uploads/sites/88/ti-demo-data/export.xml",
+  "theme_mods": {
+    "shop_isle_slider": "[{\"text\":\"ShopIsle\",\"link\":\"#\",\"label\":\"FIND OUT MORE\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/uploads\\/sites\\/88\\/2016\\/09\\/mare.jpg\",\"title\":\"undefined\",\"subtext\":\"Fully Responsive\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_slider\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"text\":\"Create a shop in minutes\",\"link\":\"#\",\"label\":\"FIND OUT MORE\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/uploads\\/sites\\/88\\/2016\\/09\\/zapada.jpg\",\"title\":\"undefined\",\"subtext\":\"efortless premium design\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_slider\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"text\":\"Integration\",\"link\":\"#\",\"label\":\"FIND OUT MORE\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/uploads\\/sites\\/88\\/2016\\/09\\/munti.jpg\",\"title\":\"undefined\",\"subtext\":\"perfectly integrated with woocommerce\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_slider\",\"shortcode\":\"undefined\",\"description\":\"undefined\"}]",
+    "shop_isle_banners": "[{\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/banner1.jpg\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_banners\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/banner2.jpg\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_banners\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/banner3.jpg\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_banners\",\"shortcode\":\"undefined\",\"description\":\"undefined\"}]",
+    "shop_isle_socials": "[{\"icon_value\":\"social_facebook\",\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_socials\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"social_twitter\",\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_socials\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"social_dribbble\",\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_socials\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"social_skype\",\"text\":\"undefined\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"undefined\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_socials\",\"shortcode\":\"undefined\",\"description\":\"undefined\"}]",
+    "shop_isle_team_members": "[{\"text\":\"Eva Bean\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/team1.jpg\",\"title\":\"undefined\",\"subtext\":\"Developer\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_team_members\",\"shortcode\":\"undefined\",\"description\":\"\"},{\"text\":\"Maria Woods\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/team2.jpg\",\"title\":\"undefined\",\"subtext\":\"Designer\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_team_members\",\"shortcode\":\"undefined\",\"description\":\"\"},{\"text\":\"Booby Stone\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/team3.jpg\",\"title\":\"undefined\",\"subtext\":\"Director\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_team_members\",\"shortcode\":\"undefined\",\"description\":\"\"},{\"text\":\"Anna Neaga\",\"label\":\"undefined\",\"image_url\":\"https:\\/\\/demo.themeisle.com\\/shop-isle-pro-2\\/wp-content\\/themes\\/shop-isle-pro\\/assets\\/images\\/team4.jpg\",\"title\":\"undefined\",\"subtext\":\"Art Director\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_team_members\",\"shortcode\":\"undefined\",\"description\":\"\"}]",
+    "shop_isle_advantages": "[{\"icon_value\":\"icon_lightbulb\",\"text\":\"Ideas and concepts\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_advantages\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"icon_tools\",\"text\":\"Designs &amp; interfaces\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_advantages\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"icon_cogs\",\"text\":\"Highly customizable\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_advantages\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"icon_like\",\"text\":\"Easy to use\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit.\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_advantages\",\"shortcode\":\"undefined\",\"description\":\"undefined\"}]",
+    "shop_isle_video_title": "Delete the negative; accentuate the positive!",
+    "shop_isle_yt_link": "https://youtu.be/UJWk_KNbDHo",
+    "shop_isle_sections_control": "[{\"shop_isle_slider_section\":{\"section_id\":\"shop_isle_slider_section\",\"section_content\":\"Slider section\",\"position\":\"0\",\"show\":true}},{\"shop_isle_services_section\":{\"section_id\":\"shop_isle_services_section\",\"section_content\":\"Services section\",\"position\":\"3\",\"show\":true}},{\"shop_isle_products_section\":{\"section_id\":\"shop_isle_products_section\",\"section_content\":\"Products section\",\"position\":\"2\",\"show\":true}},{\"shop_isle_banners_section\":{\"section_id\":\"shop_isle_banners_section\",\"section_content\":\"Banners section\",\"position\":\"1\",\"show\":true}},{\"shop_isle_video_section\":{\"section_id\":\"shop_isle_video_section\",\"section_content\":\"Video section\",\"position\":\"5\",\"show\":true}},{\"shop_isle_products_slider_section\":{\"section_id\":\"shop_isle_products_slider_section\",\"section_content\":\"Products slider section\",\"position\":\"6\",\"show\":true}},{\"shop_isle_ribbon_section\":{\"section_id\":\"shop_isle_ribbon_section\",\"section_content\":\"Ribbon section\",\"position\":\"4\",\"show\":true}},{\"shop_isle_fp_categories_section\":{\"section_id\":\"shop_isle_fp_categories_section\",\"section_content\":\"Categories section\",\"position\":\"8\",\"show\":false}},{\"shop_isle_shortcodes_section\":{\"section_id\":\"shop_isle_shortcodes_section\",\"section_content\":\"Shortcodes section\",\"position\":\"9\",\"show\":true}},{\"shop_isle_map_section\":{\"section_id\":\"shop_isle_map_section\",\"section_content\":\"Map section\",\"position\":\"7\",\"show\":true}}]",
+    "shop_isle_service_box": "[{\"icon_value\":\"icon_gift\",\"text\":\"Beautiful Products\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"I never look at other people&#39;s work. My mind has to be completely focused on my own illusions. It&#39;s a philosophy of life. A practice with no end.\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_service_box\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"icon_pin\",\"text\":\"Fast Delivery\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"If you do this, something will change, what will change is that you will change, your life will change, and if you can change you, you can perhaps change the world. \",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_service_box\",\"shortcode\":\"undefined\",\"description\":\"undefined\"},{\"icon_value\":\"icon_star\",\"text\":\"100% Satisfaction\",\"link\":\"#\",\"label\":\"undefined\",\"title\":\"undefined\",\"subtext\":\"I&#39;ve always thought of the T-shirt as the Alpha and Omega of the fashion alphabet. I like the things around me to be beautiful and slightly dreamy.\",\"social_repeater\":\"undefined\",\"id\":\"\\n\\t\\t\\t\\t\\t\\tshop_isle_service_box\",\"shortcode\":\"undefined\",\"description\":\"undefined\"}]",
+    "shop_isle_video_hide": false,
+    "shop_isle_banners_title": "",
+    "shop_isle_products_shortcode": "",
+    "shop_isle_products_category": "-",
+    "shop_isle_services_subtitle": "Elegance isn't solely defined by what you wear. It's how you carry yourself.",
+    "shop_isle_products_slider_subtitle": "Our most wanted products.",
+    "shop_isle_fp_categories_list": [
+      "11",
+      "13"
+    ],
+    "shop_isle_services_title": "We are elegant",
+    "shop_isle_about_page_video_link": "https://www.youtube.com/watch?v=x2uOTR1syOw",
+    "custom_css_post_id": -1,
+    "shop_isle_slider_hide": false,
+    "shop_isle_services_hide": false,
+    "shop_isle_products_hide": false,
+    "shop_isle_banners_hide": false,
+    "shop_isle_products_slider_hide": false,
+    "shop_isle_ribbon_hide": false,
+    "shop_isle_fp_categories_hide": true,
+    "shop_isle_shortcodes_hide": false,
+    "shop_isle_map_hide": true,
+    "sections_order": "{\"shop_isle_services_section\":15,\"shop_isle_products_section\":20,\"shop_isle_banners_section\":25,\"shop_isle_video_section\":30,\"shop_isle_products_slider_section\":35,\"shop_isle_ribbon_section\":40,\"shop_isle_fp_categories_section\":45,\"shop_isle_shortcodes_section\":50,\"shop_isle_map_section\":55}",
+    "shop_isle_video_section_padding": "250",
+    "shop_isle_palette_picker": "",
+    "__ti_import_menus_location": {
+      "primary": "menu-1"
+    }
+  },
+  "wp_options": {
+    "obfx_data": {
+      "core_settings": [],
+      "module_status": {
+        "social-sharing": {
+          "showed_notices": []
+        },
+        "gutenberg-blocks": {
+          "showed_notices": [],
+          "active": false
+        },
+        "uptime-monitor": {
+          "showed_notices": []
+        },
+        "google-analytics": {
+          "showed_notices": []
+        },
+        "template-directory": {
+          "showed_notices": [],
+          "active": false
+        },
+        "menu-icons": {
+          "showed_notices": [],
+          "active": false
+        },
+        "mystock-import": {
+          "showed_notices": [],
+          "active": false
+        },
+        "policy-notice": {
+          "showed_notices": []
+        },
+        "safe-updates": {
+          "showed_notices": [],
+          "active": false
+        }
+      },
+      "module_settings": {
+        "safe-updates": {
+          "auto_update_checks": "0"
+        }
+      }
+    }
+  },
+  "widgets": {
+    "sidebar-1": {
+      "search-2": {
+        "title": ""
+      },
+      "recent-posts-2": {
+        "title": "",
+        "number": 5
+      },
+      "recent-comments-2": {
+        "title": "",
+        "number": 5
+      },
+      "archives-2": {
+        "title": "",
+        "count": 0,
+        "dropdown": 0
+      },
+      "categories-2": {
+        "title": "",
+        "count": 0,
+        "hierarchical": 0,
+        "dropdown": 0
+      },
+      "meta-2": {
+        "title": ""
+      }
+    },
+    "sidebar-footer-area-1": {
+      "text-3": {
+        "title": "About ShopIsle",
+        "text": "<p>The languages only differ in their grammar, their pronunciation and their most common words. </p>\r\n\r\n<p>Phone: +1 234 567 89 10</p>\r\n\r\n<p>Email: <a href=\"mailto:company@example.com\">company@example.com</a>\r\n",
+        "filter": false
+      }
+    },
+    "sidebar-footer-area-2": {
+      "recent-comments-4": []
+    },
+    "sidebar-footer-area-3": {
+      "woocommerce_top_rated_products-3": {
+        "title": "Top Rated Products",
+        "number": 2
+      }
+    },
+    "sidebar-footer-area-4": {
+      "woocommerce_product_categories-3": {
+        "title": "Product Categories",
+        "orderby": "name",
+        "dropdown": 0,
+        "count": 1,
+        "hierarchical": 0,
+        "show_children_only": 0,
+        "hide_empty": 1
+      }
+    },
+    "shop-isle-sidebar-shop-archive": {
+      "woocommerce_product_search-3": [],
+      "woocommerce_price_filter-3": [],
+      "woocommerce_product_categories-4": {
+        "title": "Product Categories",
+        "orderby": "name",
+        "dropdown": 0,
+        "count": 0,
+        "hierarchical": 0,
+        "show_children_only": 0,
+        "hide_empty": 0
+      },
+      "woocommerce_layered_nav-3": {
+        "title": "Filter by",
+        "attribute": "color",
+        "display_type": "list",
+        "query_type": "and"
+      },
+      "woocommerce_recent_reviews-3": {
+        "title": "Recent Reviews",
+        "number": 5
+      },
+      "woocommerce_recently_viewed_products-3": {
+        "title": "Recently Viewed Products",
+        "number": 2
+      }
+    }
+  },
+  "recommended_plugins": [],
+  "mandatory_plugins": {
+    "woocommerce": "WooCommerce",
+    "themeisle-companion": "Orbit Fox by ThemeIsle"
+  },
+  "default_off_recommended_plugins": [],
+  "front_page": {
+    "front_page": null,
+    "blog_page": null
+  },
+  "shop_pages": {
+    "woocommerce_shop_page_id": "shop",
+    "woocommerce_cart_page_id": "cart",
+    "woocommerce_checkout_page_id": "checkout",
+    "woocommerce_myaccount_page_id": "my-account"
+  }
+}

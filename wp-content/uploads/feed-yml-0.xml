@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2020-02-02 16:47">
+<shop>
+<name>doorsservise.ru</name>
+<company>doorsservise.ru</company>
+<url>http://doors/</url>
+<platform>WordPress - Yml for Yandex Market</platform>
+<version>5.3.2</version>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="15">Uncategorized</category>
+<category id="17">Аксессуары</category>
+<category id="18">Толстовки</category>
+<category id="19">Футболки</category>
+</categories>
+<offers>
+<offer  id="42" available="true" >
+<name>Футболка с треугольным вырезом</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/vneck-tee.jpg</picture>
+<url>http://doors/product/vneck-tee/</url>
+<price>18</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>19</categoryId>
+</offer>
+<offer  id="41" available="true" >
+<name>Футболка</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/tshirt.jpg</picture>
+<url>http://doors/product/tshirt/</url>
+<price>18</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>19</categoryId>
+</offer>
+<offer  id="40" available="true" >
+<name>Тенниска</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/polo.jpg</picture>
+<url>http://doors/product/polo/</url>
+<price>20</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>19</categoryId>
+</offer>
+<offer  id="39" available="true" >
+<name>Реглан</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/long-sleeve-tee.jpg</picture>
+<url>http://doors/product/long-sleeve-tee/</url>
+<price>25</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>19</categoryId>
+</offer>
+<offer  id="38" available="true" >
+<name>Толстовка</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/hoodie.jpg</picture>
+<url>http://doors/product/hoodie/</url>
+<price>42</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>18</categoryId>
+</offer>
+<offer  id="37" available="true" >
+<name>Толстовка на молнии</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/hoodie-with-zipper.jpg</picture>
+<url>http://doors/product/hoodie-with-zipper/</url>
+<price>45</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>18</categoryId>
+</offer>
+<offer  id="36" available="true" >
+<name>Толстовка с карманами</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/hoodie-with-pocket.jpg</picture>
+<url>http://doors/product/hoodie-with-pocket/</url>
+<price>35</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>18</categoryId>
+</offer>
+<offer  id="35" available="true" >
+<name>Толстовка с логотипом</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/hoodie-with-logo.jpg</picture>
+<url>http://doors/product/hoodie-with-logo/</url>
+<price>45</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>18</categoryId>
+</offer>
+<offer  id="34" available="true" >
+<name>Очки</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/sunglasses.jpg</picture>
+<url>http://doors/product/sunglasses/</url>
+<price>90</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>17</categoryId>
+</offer>
+<offer  id="33" available="true" >
+<name>Шапка</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/cap.jpg</picture>
+<url>http://doors/product/cap/</url>
+<price>16</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>17</categoryId>
+</offer>
+<offer  id="32" available="true" >
+<name>Ремень</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/belt.jpg</picture>
+<url>http://doors/product/belt/</url>
+<price>55</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>17</categoryId>
+</offer>
+<offer  id="31" available="true" >
+<name>Вязаная шапочка</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/beanie.jpg</picture>
+<url>http://doors/product/beanie/</url>
+<price>18</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>17</categoryId>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,24 @@
+#customize-controls .control-section-makenzie-pro .accordion-section-title:hover,
+#customize-controls .control-section-makenzie-pro .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-makenzie-pro .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background: #c99d6e;
+	border: 1px solid #c99d6e;
+	color: #fff;
+}
+
+.control-section-makenzie-pro .accordion-section-title .button:hover {
+	background: #000;
+	transition: banckground 1.25s #000;
+	border: 1px solid #000;
+}
+
+	.rtl .control-section-makenzie-pro .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}

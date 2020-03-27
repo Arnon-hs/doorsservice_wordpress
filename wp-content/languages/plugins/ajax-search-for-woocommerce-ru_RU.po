@@ -1,0 +1,783 @@
+# Translation of Plugins - Ajax Search for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Ajax Search for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-29 00:19:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Ajax Search for WooCommerce - Stable (latest release)\n"
+
+#: partials/admin/features.php:14
+msgid "Help in embedding the search form in your theme. <b>Our developers will do it for you</b>."
+msgstr "Поможем встраивать форму поиска в вашу тему. <b>Наши разработчики сделают это за вас</b>."
+
+#: partials/admin/features.php:13
+msgid "Speed up search! (even <b>10x faster</b>) - users love it!"
+msgstr "Ускорьте поиск! (даже <b>в 10 раз быстрее</b>) - пользователям это нравится!"
+
+#: partials/admin/how-to-use.php:14
+msgid "Are there any difficulties? <a href=\"%s\">Upgrade now</a> and our developers will do everything for you."
+msgstr "Трудности? <a href=\"%s\">Обновите сейчас</a>, и наши разработчики сделают все за вас"
+
+#: includes/Settings.php:198
+msgctxt "admin"
+msgid "No results"
+msgstr "Нет результатов"
+
+#: includes/Settings.php:192
+msgid "More results"
+msgstr "Больше результатов"
+
+#: includes/Settings.php:173
+msgid "Custom labels"
+msgstr "Пользовательские надписи"
+
+#: partials/admin/indexer-header-demo.php:8
+msgid "Show details"
+msgstr "Смотреть подробнее"
+
+#: partials/admin/indexer-header-demo.php:3
+msgid "The search index does not exist yet. Build it now."
+msgstr "Индекс поиска еще не существует. Постройте его."
+
+#: partials/admin/features.php:25
+msgid "Upgrade Now!"
+msgstr "Обновить!"
+
+#: partials/admin/features.php:23
+msgid "And more..."
+msgstr "и больше..."
+
+#: partials/admin/features.php:22
+msgid "Individual tips and support"
+msgstr "Индивидуальные советы и поддержка"
+
+#: partials/admin/features.php:20
+msgid "Advanced search analytics and tips (in plans)"
+msgstr "Расширенная поисковая аналитика и советы (в планах)"
+
+#: partials/admin/features.php:19
+msgid "Search in product attributes (option)"
+msgstr "Поиск по атрибутам товара (опция)"
+
+#: partials/admin/features.php:18
+msgid "Search in variation products SKUs (option)"
+msgstr "Поиск по артикулам вариативных товаров (опция)"
+
+#: partials/admin/features.php:15
+msgid "Efficient with a large number of products. Tested on <b>20 000 products</b>"
+msgstr "Эффективно с большим количеством товаров. Протестировано на <b>20 000 товаров</b>"
+
+#: partials/admin/features.php:8
+msgid "If users can’t find the product they’re searching for, they can’t buy it. Help your customers to find the right products <span>faster and simpler</span>."
+msgstr "Если пользователи не могут найти продукт, который ищут, они не могут его купить. Помогите своим клиентам найти нужные продукты <span>быстрее и проще</span>."
+
+#: partials/admin/settings.php:12
+msgid "AJAX Search for WooCommerce (PRO) Settings"
+msgstr "Настройки AJAX Search for WooCommerce (PRO)"
+
+#: includes/Settings.php:552 includes/Settings.php:560
+msgid "Index status"
+msgstr "Статус индекса"
+
+#: includes/Settings.php:508 includes/Settings.php:540
+msgid "Hard"
+msgstr "Точно"
+
+#: includes/Settings.php:507 includes/Settings.php:539
+msgid "Normal"
+msgstr "Нормально"
+
+#: includes/Settings.php:506 includes/Settings.php:538
+msgid "Soft"
+msgstr "Примерно"
+
+#: includes/Settings.php:505 includes/Settings.php:537
+msgid "-- Disabled"
+msgstr "-- Отключить"
+
+#: includes/Settings.php:500 includes/Settings.php:532
+msgid "Fuzzy matching"
+msgstr "Неточное совпадение"
+
+#: includes/Settings.php:493
+msgid "Profits"
+msgstr "Доходы"
+
+#: includes/Settings.php:487
+msgid "<strong>Increases sales conversions.</strong> Returns sugestions based on likely relevance even though a search keyword may not exactly match. E.g if you type \"ipho<b>m</b>e\" you get the same results as for \"iphone\""
+msgstr "<strong>Увеличивает объем продаж.</strong> Возвращает предложения на основе вероятной релевантности, даже если ключевое слово для поиска может не совпадать. Например, если вы введете «ipho<b>m</b>e», вы получите те же результаты, что и для «iphone»"
+
+#: includes/Settings.php:480
+msgid "Speed up search!"
+msgstr "Ускорьте поиск!"
+
+#: includes/Settings.php:474
+msgid "Fuzziness"
+msgstr "Точность"
+
+#: includes/Settings.php:468
+msgid "Pro features"
+msgstr "Особенности Pro версии"
+
+#: includes/Settings.php:453
+msgid "Search in attributes"
+msgstr "Поиск по атрибутам"
+
+#: includes/Settings.php:448
+msgid "Searching also in variable products SKU"
+msgstr "Поиск внутри артикула"
+
+#: includes/Settings.php:446
+msgid "Search in SKU"
+msgstr "Поиск по артикулу"
+
+#: includes/Settings.php:440
+msgid "Search in short description"
+msgstr "Поиск в кратком описании"
+
+#: includes/Settings.php:434
+msgid "Search in description"
+msgstr "Поиск в описании"
+
+#: includes/Settings.php:429
+msgid "Searching in products names is always enabled. You can extend or narrow the searching scope using the following options."
+msgstr "Поиск по названиям товаров всегда включен. Вы можете расширить или сузить область поиска, используя следующие параметры."
+
+#: includes/Settings.php:427
+msgid "Info"
+msgstr "Информация"
+
+#: includes/Settings.php:113
+msgid "by simple tricks"
+msgstr "простыми трюками"
+
+#: includes/Settings.php:111
+msgid "Increase sales"
+msgstr "Увеличивать объем продаж"
+
+#: includes/BackwardCompatibility.php:470
+msgid "If you have any questions, do not hesitate contact <a href=\"mailto:dgoraplugins@gmail.com?subject=Ajax Search for WooCommerce - Update problem\">our support </a> or <a href=\"https://wordpress.org/support/plugin/ajax-search-for-woocommerce\" target=\"_blank\">write on the WordPress.org Support</a>."
+msgstr "Если у вас есть какие-либо вопросы, не стесняйтесь обращаться в <a href=\"mailto:dgoraplugins@gmail.com?subject=Ajax Search for WooCommerce - Update problem\">службу поддержки</a> или <a href=\"https://wordpress.org/support/plugin/ajax-search-for-woocommerce\" target=\"_blank\">написать в службу поддержки WordPress.org</a>."
+
+#: includes/Admin/Requirements.php:197
+msgid "If you have any questions, do not hesitate contact <a href=\"%s\">our support</a>."
+msgstr "Если у вас есть какие-либо вопросы, не стесняйтесь обращаться в <a href=\"%s\">нашу службу поддержки</a>."
+
+#: includes/Admin/Requirements.php:196
+msgid "Ajax Search for WooCommerce PRO - Requirements"
+msgstr "Ajax Search for WooCommerce PRO - Требования"
+
+#: includes/Admin/Requirements.php:186
+msgid "Ajax Search for WooCommerce PRO may not work properly in your environment for the following reasons:"
+msgstr "Ajax Search for WooCommerce PRO может работать некорректно в вашей среде по следующим причинам:"
+
+#: includes/Admin/Requirements.php:185
+msgid "Attention! Read this before the upgrade."
+msgstr "Внимание! Прочитайте это перед обновлением."
+
+#: includes/Admin/Requirements.php:168
+msgid "Your WordPress use the multisite. The Ajax Search for WooCommerce PRO does not support multisite yet."
+msgstr "Ваш WordPress использует мультисайт. Ajax Search for WooCommerce PRO пока не поддерживает мультисайты."
+
+#: includes/Admin/Requirements.php:147
+msgid "You use the %s plugin. The Ajax Search for WooCommerce PRO does not support multilingual yet."
+msgstr "Вы используете плагин %s. Ajax Search for WooCommerce PRO пока не поддерживает многоязычность."
+
+#: includes/Admin/Requirements.php:102
+msgid "Problem with permission for the directory: %s"
+msgstr "Проблема с разрешением для каталога: %s"
+
+#: includes/Admin/Requirements.php:56 includes/Admin/Requirements.php:62
+#: includes/Admin/Requirements.php:68 includes/Admin/Requirements.php:74
+msgid "Required PHP extension: %s"
+msgstr "Требуемое расширение PHP: %s"
+
+#: includes/Admin/Requirements.php:39
+msgid "Required PHP version 5.5 or higher. You use %s"
+msgstr "Требуется PHP версии 5.5 или выше. Вы используете %s"
+
+#: includes/Admin/Promo/Upgrade.php:70
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: includes/Admin/Promo/Upgrade.php:69
+msgid "Free updates and email support included."
+msgstr "Бесплатные обновления и поддержка по электронной почте включены."
+
+#: includes/Admin/Promo/Upgrade.php:68
+msgid "You can upgrade without leaving the admin panel by clicking below."
+msgstr "Вы можете обновить, не выходя из админпанели, нажав ниже."
+
+#: includes/Admin/Promo/Upgrade.php:62 partials/admin/features.php:10
+msgid "Update now and increase your sales. You will receive 14-day satisfaction guarantee.  A return on investment will come very quickly."
+msgstr "Обновите сейчас и увеличьте свои продажи. Вы получите 14-дневную гарантию удовлетворения. Возврат инвестиций придет очень быстро."
+
+#: includes/Admin/Promo/Upgrade.php:58
+msgid "Ajax Search for WooCommerce PRO - Upgrade Now"
+msgstr "Ajax Search for WooCommerce PRO - Обновить сейчас"
+
+#: includes/Admin/Promo/Upgrade.php:56
+msgid "and more..."
+msgstr "и больше..."
+
+#: includes/Admin/Promo/Upgrade.php:55
+msgid "Individual tips and support by Damian Góra - the author of the plugin"
+msgstr "Индивидуальные советы и поддержка Дамиана Гуры - автора плагина"
+
+#: includes/Admin/Promo/Upgrade.php:54 partials/admin/features.php:21
+msgid "Individual customization of the search form (simple CSS improvements)"
+msgstr "Индивидуальная настройка формы поиска (простые улучшения CSS)"
+
+#: includes/Admin/Promo/Upgrade.php:53
+msgid "Search in attributes and variation products SKUs (option)"
+msgstr "Поиск по атрибутам и артикулам вариаций товаров (опция)"
+
+#: includes/Admin/Promo/Upgrade.php:52 partials/admin/features.php:17
+msgid "Fuzzy search"
+msgstr "Неточный поиск"
+
+#: includes/Admin/Promo/Upgrade.php:51 partials/admin/features.php:16
+msgid "New modern search engine based on bm25 ranking algorithm"
+msgstr "Новая современная поисковая система на основе алгоритма ранжирования bm25"
+
+#: includes/Admin/Promo/Upgrade.php:50
+msgid "Speed up search! (even 10x faster) - users love it!"
+msgstr "Ускорьте поиск! (даже в 10 раз быстрее) - пользователям это нравится!"
+
+#: includes/Admin/SettingsAPI.php:649
+msgid "Contact"
+msgstr "Контакты"
+
+#: includes/Scripts.php:57
+msgctxt "in categories fe. in Books > Crime stories"
+msgid "in"
+msgstr "в"
+
+#: includes/Scripts.php:35 includes/Settings.php:194
+msgid "See all results..."
+msgstr "Смотреть все результаты..."
+
+#: includes/Scripts.php:33
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: includes/Integrations/Themes/Storefront.php:36
+msgid "Replace the Storefront theme's default product search with the Ajax Search for WooCommerce form."
+msgstr "Замените поиск товаров по умолчанию в теме Storefront на форму Ajax Search for WooCommerce."
+
+#: includes/Integrations/Themes/Storefront.php:35
+msgid "Replace search form"
+msgstr "Заменить форму поиска"
+
+#: includes/Integrations/Themes/Storefront.php:28
+msgid "Storefront theme"
+msgstr "Тема Storefront"
+
+#: partials/admin/settings.php:14
+msgid "AJAX Search for WooCommerce Settings"
+msgstr "Настройки AJAX Search for WooCommerce"
+
+#: partials/admin/indexer-header-demo.php:7
+msgid "Build index"
+msgstr "Построить индекс"
+
+#: includes/Settings.php:333
+msgid "Order"
+msgstr "Порядок"
+
+#: includes/Settings.php:308 includes/Settings.php:322
+#: includes/Settings.php:336
+msgid "Applies only to category or tags suggestions type"
+msgstr "Относится только к категории или метке"
+
+#: includes/Settings.php:306
+msgid "Products list"
+msgstr "Список товаров"
+
+#: includes/Settings.php:301
+msgid "The Details box is an additional container for extended information. The details are changed dynamically when you hover the mouse over one of the suggestions. <a href=\"%s\" target=\"_blank\">See where the details box will appear.</a>"
+msgstr "Подробности - это дополнительное поле для расширенной информации. Детали изменяются динамически, когда вы наводите указатель мыши на одно из предложений. <a href=\"%s\" target=\"_blank\">Узнайте, где появится окно с подробной информацией.</a>"
+
+#: includes/Settings.php:291
+msgid "Details box"
+msgstr "Подробности"
+
+#: includes/Settings.php:242
+msgid "Also show matching tags"
+msgstr "Показывать соответствующие теги"
+
+#: includes/Settings.php:236
+msgid "Also show matching categories"
+msgstr "Показывать соответствующие категории"
+
+#: includes/Settings.php:161
+msgid "To set 100% width leave blank"
+msgstr "Чтобы установить ширину 100%, оставьте пустым"
+
+#: includes/Settings.php:158
+msgid "Max form width"
+msgstr "Максимальная ширина формы"
+
+#: includes/Settings.php:98
+msgid "Scope"
+msgstr "Область поиска"
+
+#: includes/Settings.php:94
+msgid "Colors"
+msgstr "Цвета"
+
+#: includes/Settings.php:90
+msgid "Form"
+msgstr "Форма"
+
+#: includes/Scripts.php:32
+msgid "tag"
+msgstr "метка"
+
+#: includes/Helpers.php:441 includes/Helpers.php:444 includes/Settings.php:105
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/BackwardCompatibility.php:477
+msgid "Remind me later"
+msgstr "Напомните позже"
+
+#: includes/BackwardCompatibility.php:454
+msgid ""
+"Hello,\n"
+"                    <br /><br />\n"
+"                    I use your %s theme with AJAX Search for WooCommerce plugin - (https://wordpress.org/plugins/ajax-search-for-woocommerce/)\n"
+"                    <br /><br />\n"
+"                    In the lates version of AJAX Search for WooCommerce %s they have changed the search form on the frontend (CSS, HTML etc.).\n"
+"                    <br /><br />\n"
+"                    Could you check it and update your CSS if necessary?"
+msgstr ""
+"Здравствуйте, \n"
+"                     <br /> <br /> \n"
+"                     Я использую вашу %s тему с плагином AJAX Search for WooCommerce - (https://wordpress.org/plugins/ajax-search-for-woocommerce/)\n"
+"                     <br /> <br /> \n"
+"                     В последней версии AJAX Search для WooCommerce %s они изменили форму поиска во внешнем интерфейсе (CSS, HTML и т. д.). \n"
+"                     <br /> <br /> \n"
+"                     Не могли бы вы проверить это и обновить свой CSS, если это необходимо?"
+
+#: includes/BackwardCompatibility.php:449
+msgid "A sample e-mail message that you can send them:"
+msgstr "Пример сообщения электронной почты, которое вы можете отправить им:"
+
+#: includes/BackwardCompatibility.php:432
+msgid "Author:"
+msgstr "Автор:"
+
+#: includes/BackwardCompatibility.php:417
+msgctxt "Wordpress theme name"
+msgid "Name:"
+msgstr "Название:"
+
+#: includes/BackwardCompatibility.php:412
+msgid "Your Theme Details"
+msgstr "Детали вашей темы"
+
+#: includes/BackwardCompatibility.php:406
+msgid "Probably your theme uses additional CSS styles to customize the appearance of the AJAX search form. Contact the authors of your theme. Maybe they have to update their CSS styles if necessary."
+msgstr "Возможно, ваша тема использует дополнительные стили CSS для настройки внешнего вида формы поиска AJAX. Свяжитесь с авторами вашей темы. Может быть, они должны обновить свои стили CSS, если это необходимо."
+
+#: includes/BackwardCompatibility.php:402
+msgid "Your AJAX search form does not display correctly after manual switching to the latest version."
+msgstr "Ваша поисковая форма AJAX не отображается правильно после ручного переключения на последнюю версию."
+
+#: includes/BackwardCompatibility.php:395
+msgid "If the AJAX search form displays incorrectly after switching to the latest version, see the  %s"
+msgstr "Если форма поиска AJAX отображается неправильно после перехода на последнюю версию, см. %s"
+
+#: includes/BackwardCompatibility.php:388
+msgid "latest version"
+msgstr "Последняя версия"
+
+#: includes/BackwardCompatibility.php:381
+msgid "previous version"
+msgstr "Предыдущая версия"
+
+#: includes/BackwardCompatibility.php:379
+msgid "Saved!"
+msgstr "Сохранено!"
+
+#: includes/BackwardCompatibility.php:378
+msgid "Something went wrong. Refresh the page and try again."
+msgstr "Что-то пошло не так. Обновите страницу и попробуйте снова."
+
+#: includes/BackwardCompatibility.php:377
+msgid "Version switcher"
+msgstr "Переключатель версий"
+
+#: includes/BackwardCompatibility.php:370
+msgid "If not, switch back to <code>previous version %s</code> and see %s"
+msgstr "Если нет, вернитесь к <code>предыдущей версии %s</code> и посмотрите %s"
+
+#: includes/BackwardCompatibility.php:369
+msgid "finish the update"
+msgstr "закончить обновление"
+
+#: includes/BackwardCompatibility.php:369
+msgid "If it is ok, click %s"
+msgstr "Если все в порядке, нажмите %s"
+
+#: includes/BackwardCompatibility.php:368
+msgid "Check if the AJAX search form displays correctly"
+msgstr "Проверьте, правильно ли отображается форма поиска AJAX"
+
+#: includes/BackwardCompatibility.php:367
+msgid "Visit your <a target=\"_blank\" href=\"%s\">store</a>"
+msgstr "Посетите свой <a target=\"_blank\" href=\"%s\">магазин</a>"
+
+#: includes/BackwardCompatibility.php:364
+msgid "You have activated the latest version. Follow the steps below:"
+msgstr "Вы активировали последнюю версию. Следуйте инструкциям ниже:"
+
+#: includes/BackwardCompatibility.php:359
+msgid "Switch manually to the latest version to check if the AJAX search form displays correctly with your theme"
+msgstr "Переключитесь вручную на последнюю версию, чтобы проверить, правильно ли отображается форма поиска AJAX с вашей темой."
+
+#: includes/BackwardCompatibility.php:356
+msgid "What should you do now?"
+msgstr "Что тебе теперь делать?"
+
+#: includes/BackwardCompatibility.php:348
+msgid "In the last update we have changed the AJAX search form on the frontend (CSS styles, names of the HTML classes etc.). You have to check if the AJAX search form looks correct with your theme after these changes."
+msgstr "В последнем обновлении мы изменили форму поиска AJAX во внешнем интерфейсе (стили CSS, имена классов HTML и т. д.). Вы должны проверить, правильно ли выглядит форма поиска AJAX с вашей темой после этих изменений."
+
+#: includes/BackwardCompatibility.php:348
+msgid "<span style=\"color:#9b5c8f\">Complete the update process</span>"
+msgstr "<span style=\"color:#9b5c8f\">Завершить процесс обновления</span>"
+
+#: includes/BackwardCompatibility.php:339
+msgid "troubleshooting"
+msgstr "поиск проблемы"
+
+#: includes/BackwardCompatibility.php:338
+msgid "Troubleshooting"
+msgstr "Поиск проблемы"
+
+#: includes/BackwardCompatibility.php:55
+msgid "You have updated the plugin to the latest version %s. You need to complete the updating process manually. <a href=\"%s\">Go to the plugin page</a>."
+msgstr "Вы обновили плагин до последней версии %s. Вам необходимо завершить процесс обновления вручную. <a href=\"%s\">Перейдите на страницу плагина </a>."
+
+#: includes/BackwardCompatibility.php:54
+msgid "Action Required"
+msgstr "Необходимое действие"
+
+#: ajax-search-for-woocommerce.php:168
+msgid "Remind me again in week."
+msgstr "Напомните мне снова через неделю."
+
+#: ajax-search-for-woocommerce.php:163
+msgid "If you do not upgrade the php version, the next plugin release will not work!"
+msgstr "Если вы не обновите версию php, следующий выпуск плагина не будет работать!"
+
+#: ajax-search-for-woocommerce.php:161
+msgid "If you cannot upgrade your PHP version yourself, you can send an email to your host."
+msgstr "Если вы не можете обновить версию PHP самостоятельно, вы можете отправить электронное письмо на ваш хостинг."
+
+#: ajax-search-for-woocommerce.php:159
+msgid " You have to update your PHP version to least 5.5 (recommended 7.2 or greater)."
+msgstr "Вы должны обновить версию PHP до версии не ниже 5.5 (рекомендуется 7.2 или выше)."
+
+#: ajax-search-for-woocommerce.php:158
+msgid "<b>AJAX Search for WooCommerce</b>:<br /> Your PHP version <b><i>%s</i></b> will not longer supported in the next plugin releases."
+msgstr "<b>AJAX Search for WooCommerce</b>:<br />Ваша версия PHP <b><i>%s</i></b> больше не будет поддерживаться в следующих выпусках плагина."
+
+#. Description of the plugin
+msgid "Allows your customers to search products easily and quickly. It will display the results instantly while typing in an inputbox."
+msgstr "Позволяет вашим клиентам легко и быстро искать товары. Он будет отображать результаты мгновенно при вводе в поле ввода."
+
+#. Plugin Name of the plugin
+#: includes/BackwardCompatibility.php:53
+msgid "AJAX Search for WooCommerce"
+msgstr "AJAX Search for WooCommerce"
+
+#: includes/Admin/AdminMenu.php:32
+msgid "AJAX search form"
+msgstr "AJAX поиск"
+
+#: includes/Admin/Promo/FeedbackNotice.php:87
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+#: includes/Admin/Promo/FeedbackNotice.php:83
+msgid "Review %s"
+msgstr "Отзывов %s"
+
+#: includes/Admin/Promo/FeedbackNotice.php:77
+msgid "I have spent countless hours developing it, and it would mean a lot to me if you %ssupport it with a quick review on WordPress.org.%s"
+msgstr "Я потратил много времени на разработку этого плагина и буду крайне признателен, если вы %sоставите отзыв%s на сайте WordPress.org."
+
+#: includes/Admin/Promo/FeedbackNotice.php:72
+msgid "Hey %s, it's Damian Góra from %s. You have used this free plugin for some time now, and I hope you like it!"
+msgstr "Привет, %s! Это Damian Góra из %s. Вы пользуетесь этим плагином уже давно, надеюсь он вам понравился!"
+
+#: ajax-search-for-woocommerce.php:188
+msgid "<b>AJAX Search for WooCommerce</b> is enabled but not effective. It requires %s in order to work."
+msgstr "<b>AJAX Search for WooCommerce</b> включен, но не эффективен. Для работы требуется %s."
+
+#: ajax-search-for-woocommerce.php:127
+msgid "<b>AJAX Search for WooCommerce</b>: You need PHP version at least 5.3 to run this plugin. You are currently using PHP version "
+msgstr "<b>AJAX Search for WooCommerce</b>: Для работы этого плагина вам нужна версия PHP не менее 5.3. В настоящее время вы используете PHP версию"
+
+#: includes/Scripts.php:36 includes/Settings.php:200
+msgid "No results"
+msgstr "Ничего не найдено"
+
+#: includes/Settings.php:230
+msgid "Show SKU"
+msgstr "Показывать артикул"
+
+#: includes/Settings.php:460
+msgid "Exclude 'out of stock' products"
+msgstr "Исключить продукты со статусом \"нет в наличии\""
+
+#. Author URI of the plugin
+msgid "http://damiangora.com"
+msgstr "http://damiangora.com"
+
+#. Author of the plugin
+msgid "Damian Góra"
+msgstr "Damian Góra"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ajax-search-for-woocommerce/"
+msgstr "https://wordpress.org/plugins/ajax-search-for-woocommerce/"
+
+#: widget.php:32
+msgid "Title"
+msgstr "Название"
+
+#: widget.php:25
+msgid "AJAX (live) search form for WooCommerce"
+msgstr "Ajax поиск для WooCommerce"
+
+#: backward-compatibility/1-1-7/search-form.php:67 partials/search-form.php:19
+msgid "Products search"
+msgstr "Поиск товаров"
+
+#: includes/Scripts.php:30
+msgctxt "For product badge: featured"
+msgid "featured"
+msgstr "Хит"
+
+#: includes/Scripts.php:29
+msgctxt "For product badge: on sale"
+msgid "sale"
+msgstr "скидка"
+
+#: includes/Engines/WordPressNative/DetailsBox.php:170
+msgid "Tag"
+msgstr "Метка"
+
+#: includes/Scripts.php:31 includes/Engines/WordPressNative/DetailsBox.php:168
+msgid "Category"
+msgstr "Категория"
+
+#: partials/admin/how-to-use.php:12
+msgid "Widgets Screen"
+msgstr "Виджеты"
+
+#: partials/admin/how-to-use.php:12
+msgid "Go to the %s and choose \"Woo AJAX Search\""
+msgstr "Перейти к %s  и выбрать \"Woo Ajax Search\""
+
+#: partials/admin/how-to-use.php:11
+msgid "Use a shortcode %s"
+msgstr "Использовать шорткод  %s"
+
+#: partials/admin/how-to-use.php:10
+msgid "There are two easy ways to display the search form"
+msgstr "Есть два способа разместить форму поиска на сайте"
+
+#: includes/Settings.php:285
+msgid "Upload preloader image"
+msgstr "Изображение загрузчика"
+
+#: includes/Settings.php:279
+msgid "Show preloader"
+msgstr "Показывать загрузку"
+
+#: includes/Settings.php:273
+msgid "Preloader"
+msgstr "Анимация загрузки"
+
+#: includes/Settings.php:413
+msgid "Border color"
+msgstr "Цвет рамки"
+
+#: includes/Settings.php:407
+msgid "Highlight color"
+msgstr "Цвет выделенного текста"
+
+#: includes/Settings.php:401
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: includes/Settings.php:395
+msgid "Suggestion selected"
+msgstr "Выбранный результат"
+
+#: includes/Settings.php:389
+msgid "Suggestion background"
+msgstr "Фон результатов"
+
+#: includes/Settings.php:383
+msgid "Suggestions"
+msgstr "Результаты поиска"
+
+#: includes/Settings.php:377
+msgid "Search submit text"
+msgstr "Текст кнопки \"Поиск\""
+
+#: includes/Settings.php:371
+msgid "Search submit background"
+msgstr "Фон кнопки поиска"
+
+#: includes/Settings.php:365
+msgid "Search input border"
+msgstr "Цвет рамки поля ввода"
+
+#: includes/Settings.php:359
+msgid "Search input text"
+msgstr "Текст в поле \"Поиск\""
+
+#: includes/Settings.php:353
+msgid "Search input background"
+msgstr "Фон поля ввода"
+
+#: includes/Settings.php:347
+msgid "Search form"
+msgstr "Форма поиска"
+
+#: includes/Settings.php:339
+msgid "ASC"
+msgstr "По возрастанию"
+
+#: includes/Settings.php:338
+msgid "DESC"
+msgstr "По убыванию"
+
+#: includes/Settings.php:327
+msgid "Sales"
+msgstr "Продажи"
+
+#: includes/Settings.php:326
+msgid "Random"
+msgstr "Случайно"
+
+#: includes/Settings.php:325
+msgid "Price"
+msgstr "Цена"
+
+#: includes/Settings.php:324
+msgid "Date"
+msgstr "Дата"
+
+#: includes/Settings.php:319
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: includes/Settings.php:312
+msgid "On-sale Products"
+msgstr "Акционные товары"
+
+#: includes/Settings.php:311
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+#: includes/Settings.php:310
+msgid "All Product"
+msgstr "Все товары"
+
+#: includes/Settings.php:224
+msgid "Show product description"
+msgstr "Показать описание товара"
+
+#: includes/Settings.php:218
+msgid "Show price"
+msgstr "Показывать цену"
+
+#: includes/Settings.php:212
+msgid "Show product image"
+msgstr "Показывать фото товара"
+
+#: includes/Settings.php:206
+msgid "Suggestions output"
+msgstr "Вид результатов"
+
+#: includes/Settings.php:421
+msgid "Search scope"
+msgstr "Область поиска"
+
+#: includes/Settings.php:297
+msgid "Show details box"
+msgstr "Показывать детали"
+
+#: backward-compatibility/1-1-7/search-form.php:74 includes/Settings.php:188
+#: partials/search-form.php:26
+msgid "Search for products..."
+msgstr "Поиск товаров..."
+
+#: includes/Settings.php:186
+msgid "Search input placeholder"
+msgstr "Подсказка в поле поиска"
+
+#: includes/Settings.php:182
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/Settings.php:181
+msgid "To display the magnifier icon leave this field empty."
+msgstr "Чтобы отображать лупу оставьте это поле пустым."
+
+#: includes/Settings.php:179
+msgid "Search submit button text"
+msgstr "Надпись на кнопке поиска"
+
+#: includes/Settings.php:166
+msgid "Show submit button"
+msgstr "Показывать кнопку"
+
+#: includes/Settings.php:153
+msgid "Minimum number of characters required to trigger autosuggest."
+msgstr "Минимальное количество символов необходимое для запуска автоматического поиска."
+
+#: includes/Settings.php:150
+msgid "Minimum characters"
+msgstr "Минимум символов"
+
+#: includes/Settings.php:145
+msgid "Maximum number of suggestions rows."
+msgstr "Максимальное количество строк в результате поиска"
+
+#: includes/Settings.php:142
+msgid "Suggestions limit"
+msgstr "Количество результатов поиска"
+
+#: includes/Settings.php:136
+msgid "How to use?"
+msgstr "Как пользоваться?"
+
+#: includes/Settings.php:86
+msgid "Basic"
+msgstr "Основное "
+
+#: includes/Admin/SettingsAPI.php:474
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+#: widget.php:27
+msgid "Woo AJAX Search"
+msgstr "Woo Ajax Search"
+
+#: includes/Admin/AdminMenu.php:31
+msgid "Ajax Search for WooCommerce"
+msgstr "Ajax Search for WooCommerce"

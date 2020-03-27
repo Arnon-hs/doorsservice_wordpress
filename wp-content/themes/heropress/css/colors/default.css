@@ -1,0 +1,428 @@
+﻿/*=========================================
+    Primary Color
+=========================================*/
+/* Header CSS */
+.header-top-info-3 .social li a i:hover {
+    background: #fdc236;
+}
+
+/* Menu CSS */
+.navbar-brand::first-letter {
+	color: #fdc236 !important;
+}
+.navbar-default .navbar-nav>.active > a, .navbar-default .navbar-nav>.active>a:hover, .dropdown-menu > .active > a {
+    background: #fdc236 !important;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus{
+    color: #fdc236 !important;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    background: #fdc236 !important;
+}
+
+/* Slider CSS */
+.slider-version-three .caption h1 span{
+    color: #fdc236;
+}
+.specia-btn-3:hover{
+    background: #fdc236;
+	border-color: #fdc236;
+}
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+    background: #fdc236;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #fdc236;
+}
+
+/* Service CSS */
+.section-heading span{
+    color: #fdc236;
+}
+.hero-service-box:hover { 
+	background-color: #fdc236;
+}
+.hero-service-box > i {
+	color: #fdc236;
+}
+.hero-service-image:hover > h3 a {
+	color: #fdc236;
+}
+.hero-service-image:hover > a {
+	border: solid 1px #fdc236;
+	background-color: #fdc236;
+}
+.hero-service-color:hover > a {
+	color: #fdc236;
+}
+
+/* Cal Action CSS */
+.call-to-action-three .call-btn-3:hover {
+    background: #fdc236;
+	border-color: #fdc236;
+}
+
+/* Service Section CSS */
+.service-version-one .service-icon-box i:hover {
+    background: #fdc236;
+}
+.specia-icon-effect-1 .specia-icon:after {
+	box-shadow: 0 0 0 4px #fdc236;
+}
+.specia-icon-effect-5 .specia-icon:hover {
+	box-shadow: 0 0 0 4px #fdc236;
+}
+.specia-icon-effect-6 .specia-icon:hover {
+	box-shadow: 0 0 0 4px #fdc236;
+}
+.specia-icon-effect-8 .specia-icon:hover {
+	background: #fdc236;
+}
+/* Features Section CSS */
+.features-version-one h2 span{
+    color: #fdc236;
+}
+.features-version-one .feature-box-info h4{
+    color: #fdc236;
+}
+
+/* Latest Blog Section CSS */
+.blog-version-1 article:hover footer.entry-footer, .post_date{
+     background: #fdc236;
+}
+.entry-content .more-link:hover {
+    background: #fdc236;
+	border: solid 2px #fdc236;
+}
+
+/* Footer Section CSS */
+.footer-sidebar .widget .title-border { 
+    border-bottom: 2px solid #fdc236;
+}
+.widget table #next a, .widget table #prev a { 
+	color: #fdc236; font-weight: 600; 
+}
+.footer-sidebar  .widget ul li a:hover, .widget ul li a:active { 
+    color: #fdc236; 
+}
+.footer-sidebar .widget input[type="submit"]:hover{
+    background: #fdc236;
+    border-color: #fdc236;
+}
+.footer-sidebar .tagcloud a:hover, .tagcloud a:focus {  
+    border: 1px solid #fdc236;
+    background: #fdc236;
+}  
+
+/* Copyright Content */
+.payment-icon li a:hover{
+    color: #fdc236;
+}
+.footer-copyright p a:hover{
+    color: #fdc236;
+}
+.top-scroll {
+    border-color: #fdc236;
+    color: #fdc236;
+}
+
+/* Pagination CSS */
+.paginations a:hover, .paginations a:focus, .paginations a.active, span.page-numbers.current {
+    border: 1px solid #fdc236;
+    background-color: #fdc236;
+}
+
+/* Blog Page CSS */
+.page-wrapper article:hover footer.entry-footer {
+     background: #fdc236;
+}
+.comment-reply-title {
+    border-top: 4px solid #fdc236;
+}
+.required {
+    color: #fdc236;
+}
+a.comment-reply-link {
+    color: #fdc236;
+}
+
+/* Error Page CSS */
+.error-page h1{
+    color: #fdc236;
+}
+
+/* Form Element CSS */
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    background: #fdc236;
+    border: solid 2px #fdc236;
+}
+
+/* Breadcrumb CSS */
+.page-breadcrumb a{
+    color: #fdc236;
+}
+
+/*Sidebar Area CSS */
+.sidebar .widget .widget-title {
+    color: #202e31;
+}
+.sidebar .widget input[type="submit"] {
+    color: #202e31;
+    border: solid 2px #202e31;
+}
+.sidebar .widget table caption { 
+    background: #202e31;
+}
+/* Typography */
+blockquote { 
+    border-left: 5px solid #fdc236 !important;
+}
+table th {     
+    border: 1px solid #fdc236;
+    background: #fdc236;
+}
+em, cite, q { 
+	color: #fdc236;
+}
+s, strike, del { 
+	color: #fdc236; 
+}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+    color: #fdc236;
+}
+body a {
+    color: #fdc236;
+}
+body a:focus, body a:hover {
+    color: #fdc236;
+}
+
+/* Form */
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+    background: #fdc236;
+    border: solid 2px #fdc236;
+}
+
+/* WooCommerce */
+.heropress-cart a.cart-icon span {
+    background: #fdc236;
+}
+.woocommerce a.button:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce #respond input#submit:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce button.button.alt.disabled:hover,
+.woocommerce-cart table.cart input.button:hover,
+.woocommerce input.button:hover,
+.woocommerce button.button:hover {
+	background: #fdc236;
+    border: solid 2px #fdc236;
+}
+.woocommerce nav.woocommerce-pagination ul li span.current {
+	background: #fdc236;
+	border: solid 1px #fdc236;
+}
+.woocommerce nav.woocommerce-pagination a.page-numbers:hover {
+	background: #fdc236;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover {
+	background: #fdc236;
+    border: solid 2px #fdc236;
+}
+.woocommerce p.stars a {
+	color: #fdc236;
+}
+.woo-sidebar .widget .title-border { 
+    border-bottom: 2px solid #fdc236;
+}
+.woocommerce a.remove:hover {
+	background: #fdc236;
+}
+.price_slider_wrapper .ui-slider .ui-slider-handle {
+    border: 5px solid #fdc236;
+}
+.price_slider_wrapper .ui-slider .ui-slider-range {
+  background: #fdc236;
+}
+.woocommerce-MyAccount-navigation ul li.is-active {
+	background: #fdc236;
+}
+.page-wrapper .posts-navigation a:hover {
+    background: #fdc236;
+	border: 2px solid #fdc236;
+}
+
+.bg-sticky {
+    background: #fdc236;
+}
+
+/* --------------------------------------
+=========================================
+    Secondary Color
+=========================================
+-----------------------------------------*/
+/* Menu CSS */
+.navbar-brand {
+	color: #ffffff;
+}
+.is-sticky .navbar-brand, .is-sticky p.site-description {
+	color: #202e31 !important;
+}
+/* Slider CSS */
+.owl-theme .owl-controls .owl-nav [class*=owl-] {
+    background: #202c3b;
+}
+/* Service CSS */
+.section-heading{
+    color: #202e31;
+}
+.specia-icon-effect-1 .specia-icon {
+	background: #202e31;
+}
+.specia-icon-effect-2 .specia-icon:after {
+	background: #202e31;
+}
+.specia-icon-effect-3 .specia-icon:after {
+	background: #202e31;
+}
+.specia-icon-effect-4 .specia-icon {
+	background: #202e31;
+	box-shadow: 0 0 0 4px #202e31;
+}
+.specia-icon-effect-5 .specia-icon {
+	box-shadow: 0 0 0 4px #202e31;
+	background: #202e31;
+}
+.specia-icon-effect-6 .specia-icon {
+	background: #202e31;
+	box-shadow: 0 0 0 4px #202e31;
+}
+.specia-icon-effect-8 .specia-icon {
+	background: #202e31;
+}
+
+/* Latest Blog Section CSS */
+.blog-version-1 footer.entry-footer {
+    background: #202e31;
+}
+.entry-content .more-link {
+    color: #202e31;
+    border: solid 2px #202e31;
+}
+
+/* Footer Section CSS */
+.footer-sidebar .widget table caption, .woo-sidebar .widget table caption  { 
+    background: #202e31;
+}
+.footer-sidebar .background-overlay {
+	background: #202e31;
+}
+.footer-copyright, .footer-copyright p, .footer-copyright p a {
+    background: #202e31;
+}
+/* Blog Page CSS */
+footer.entry-footer {
+    background: #202e31;
+}   
+h2.entry-title a {
+    color: #202e31;
+}
+.entry-header h2.entry-title {
+    color: #202e31;
+}
+
+/* Error Page CSS */
+.error-page h2{
+    color: #202e31;
+}
+
+/* Form Element CSS */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    color: #202e31;
+    border: solid 2px #202e31;
+}
+
+/*Sidebar Area CSS */
+.sidebar .widget ul li a:hover, .widget ul li a:active { 
+    color: #fdc236; 
+}
+.sidebar .widget table tbody a {
+    color: #fdc236;
+}
+.sidebar .widget input[type="submit"]:hover{
+    background: #fdc236;
+    border-color: #fdc236;
+}
+.sidebar .tagcloud a:hover, .tagcloud a:focus {  
+    border: 1px solid #fdc236;
+    background: #fdc236;
+} 
+.sidebar .widget .title-border { 
+    border-bottom: 2px solid #fdc236;
+}
+
+/* Typography */
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+	color: #202e31;
+}
+blockquote cite, blockquote small { 
+	color: #202e31;
+}
+address { 
+	color: #202e31;
+}
+ins { 
+	color: #202e31;
+}
+/* WooCommerce */
+.woocommerce a.button, 
+.woocommerce button.button.alt, 
+.woocommerce #respond input#submit,
+.woocommerce input.button.alt, 
+.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled],
+.woocommerce-cart table.cart input.button,
+.woocommerce input.button,
+.woocommerce button.button {
+	color: #202e31;
+    border: solid 2px #202e31;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+    border: solid 2px #202e31;
+	color: #202e31;
+}
+.price_slider_wrapper .ui-slider-horizontal {
+  background: #202e31;
+}
+.woocommerce-MyAccount-navigation ul li {
+	background: #202e31;
+}
+.woocommerce-checkout #payment div.payment_box {
+	background-color: #202e31;
+}
+#add_payment_method #payment div.payment_box:before, .woocommerce-cart #payment div.payment_box:before, .woocommerce-checkout #payment div.payment_box:before {
+	border: 1em solid #202e31;
+}	
+.page-wrapper .posts-navigation a {
+    color: #202e31;
+    border: solid 2px #202e31;
+}

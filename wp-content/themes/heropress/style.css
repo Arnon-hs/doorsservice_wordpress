@@ -1,0 +1,672 @@
+/*
+Theme Name: HeroPress
+Theme URI: https://speciatheme.com/heropress-free/
+Author: Specia
+Author URI: https://speciatheme.com/
+Description: HeroPress is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. It fits for business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. HeroPress premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. View the demo of HeroPress Premium https://demo.speciatheme.com/pro/?theme=heropress
+Template: specia
+Version: 3.0.8
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: heropress
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, entertainment, portfolio, editor-style, grid-layout
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+/* --------------------------------------
+=========================================
+    HeroPress Nav
+=========================================
+-----------------------------------------*/
+body img {
+    width: 100%;
+}
+
+.navbar-brand, .site-title a, .site-description {
+    color: #202e31 !important
+}
+
+
+/* --------------------------------------
+=========================================
+    HeroPress Slider
+=========================================
+-----------------------------------------*/
+.slider-version {
+    display: flex;
+}
+
+.slider-version-three{
+	width: 100%;
+    margin: 0;
+    margin-top: -156px;
+    position: relative;
+}
+
+.slider-version-three .caption{
+    margin: auto;
+    width: 70%;
+}
+.slider-version-three .specia-slider {
+    background: rgba(0,0,0,0.5);
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+}
+.slider-version-three .inner-table {
+    display: table;
+    height: 100%;
+}
+.slider-version-three .inner-table-cell {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    width: 100%;
+}
+.slider-version-three .caption h1{
+    font-size: 48px;
+    text-shadow: 0 3px 3px rgba(0, 0, 0, 0.50);
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    font-weight: 800;
+    line-height: 56px;
+    margin: 0 0 15px;
+}
+.slider-version-three .caption p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-weight: normal;
+    margin: 0 0 30px;
+    font-size: 18px;
+    text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.verticle-center{
+    vertical-align: middle;
+    padding-bottom: 3vh;
+}
+
+.slider-version-three .owl-prev {
+    position: absolute;
+    top: 45%;
+    float: left;
+    left: 2%;
+    width: 40px;
+    opacity: 0;
+}
+.slider-version-three .owl-next {
+    position: absolute;
+    top: 45%;
+    float: right;
+    right: 2%;
+    width: 40px;
+    opacity: 0;
+}
+.slider-version:hover .owl-prev {
+    position: absolute;
+    top: 45%;
+    float: left;
+    left: 3%;
+    width: 40px;
+    opacity: 0.9;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.slider-version:hover .owl-next {
+    position: absolute;
+    top: 45%;
+    float: right;
+    right: 3%;
+    width: 40px;
+    opacity: 0.9;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.owl-theme .owl-controls .owl-nav [class*=owl-] {
+    color: #fff;
+    font-size: 13px;
+    margin: 5px;
+    padding: 22px;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    cursor: pointer;
+    background-color: rgba(255,255,255,0);
+    border: 1px solid #b7b7b7;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+    color: #fff;
+    text-decoration: nthree;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+
+.slider-version .owl-dots {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    opacity: 0;
+    left: 40%;
+    right: 40%;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.slider-version:hover .owl-dots {
+    position: absolute;
+    bottom: 35px;
+    text-align: center;
+    opacity: 0.9;
+    left: 40%;
+    right: 40%;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.slider-version .owl-theme .owl-dots .owl-dot {
+    display: inline-block;
+    zoom: 1;
+    *display: inline
+}
+.slider-version .owl-theme .owl-dots .owl-dot span{
+    margin: 3px;
+    background: transparent;
+    padding: 3px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    -webkit-backface-visibility: visible;
+   -webkit-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+    -ms-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    transition: all 200ms ease-in;
+      display: block;
+}
+.slider-version .owl-controls .owl-dots .owl-dot.active span {
+    padding: 4px;
+}
+.owl-theme .owl-controls .owl-nav .disabled {
+    opacity: .5;
+    cursor: default
+}
+.owl-theme .owl-dots .owl-dot span {
+   background: #d6d6d6;
+}
+
+.specia-btn-3{
+    background: transparent;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    padding: 12px 24px;
+    border: solid 1px #ffffff;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.specia-btn-3:hover{
+    color: #ffffff;
+     -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+
+/*---------------------------------------
+    Social Icons HeroPress
+-----------------------------------------*/
+.header-top-info-3 .social {
+    padding: 0px 0;
+    margin: 0;
+    line-height: 20px;
+    padding: 5px 0 4px;
+}
+.header-top-info-3 .social li {
+    font-family: 'Awesomefont';
+    margin-right: 4px;
+    display: inline-block;
+}
+.header-top-info-3 .social li {
+    position: relative;
+}
+.text-center .social li {
+    margin: 0 2px;
+}
+.social li a {
+    display: table;
+    position: relative;
+    -webkit-transition: .3s all;
+    transition: .3s all;
+     overflow: hidden;
+}
+.header-top-info-3 .social li a i {
+    background: rgba(0,0,0,0.4);
+    border-radius: 5%;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    color: #ffffff;
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.header-top-info-3 .social li a i:hover {
+    color: #ffffff;
+    -webkit-animation: socialFxD .3s forwards;
+            animation: socialFxD .3s forwards
+}
+@-webkit-keyframes socialFxD {
+    49% {
+        -webkit-transform: translateX(100%);
+                transform: translateX(100%)
+    }
+    50% {
+        opacity: 0;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+        -webkit-transform: translateX(-100%);
+                transform: translateX(-100%)
+    }
+    51% {
+        opacity: 1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
+    }
+}
+
+@keyframes socialFxD {
+    49% {
+        -webkit-transform: translateX(100%);
+                transform: translateX(100%)
+    }
+    50% {
+        opacity: 0;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+        -webkit-transform: translateX(-100%);
+                transform: translateX(-100%)
+    }
+    51% {
+        opacity: 1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)"
+    }
+}
+/*---------------------------------------
+   Header Contact Details HeroPress
+-----------------------------------------*/
+.header-top-info-3{
+    float: none;
+    position: relative;
+    background: transparent;
+    border-bottom: 1px solid rgba(134, 134, 140, 0.42);
+    z-index: 10;
+    padding: 4px 0;
+}
+.header-top-info-3 .info {
+    padding-left: 0;
+    margin: 0;
+    padding-top: 4px;
+}
+.header-top-info-3 .info li {
+    font-size: 13px;
+    padding-right: 0;
+    display: inline-block;
+}
+.header-top-info-3 .info li i {
+    color: #ffffff;
+    margin-right: 6px;
+}
+.header-top-info-3 .info li a {
+    font-size: 13px;
+    margin-right: 10px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+/* Hero Section */
+
+header.hero {
+    position: relative;
+    background: transparent;
+    padding-top: 0;
+    z-index: 5;
+}
+header.hero .sticky-wrapper {
+    background: transparent;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 5;
+    
+}
+.hero .is-sticky{
+    background-color: #fff !important;
+}
+
+.hero .is-sticky nav.navbar {
+    background: #fff !important;
+    webkit-box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.175);
+    box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.175);
+    color: #747474;
+}
+
+/*---------------------------------------
+    HeroPress Version
+-----------------------------------------*/
+.call-to-action-three .background-overlay{
+    background: rgba(0,0,0,0.7);
+    bottom: 0;
+    height: 100%;
+    z-index: 3;
+}
+.call-to-action-three h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 46px;
+    color: #ffffff;
+    padding-top: 3px;
+    margin: 0 0 13px;
+}
+.call-to-action-three p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #ffffff;
+}
+.call-to-action-three h2 span{
+    color: #ffffff;
+}
+.call-to-action-three .call-btn-3{
+    background: transparent;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: solid 2px #ffffff;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+.call-to-action-three .call-btn-3:hover{
+     -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+
+/*---------------------------------------
+    Service HeroPress  
+-----------------------------------------*/
+
+.hero-service-box,
+.hero-service-box > i,
+.hero-service-box > h3,
+.hero-service-box > p {
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;
+    -o-transition: all 1s ease 0s;
+    transition: all 1s ease 0s; 
+}
+.hero-service-box {
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    display: inline-block;
+    padding: 20px 5px 40px 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.hero-service-box:hover {
+    border-color: transparent;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+.hero-service-box i {
+    display: inline-block;
+    background: transparent;
+    padding: 24px;
+    border-radius: 50%;
+    border: solid 1px;
+    font-size: 33px;
+}
+.hero-service-box:hover > i {
+    color: #fff;
+}
+.hero-service-box > h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.8px;
+    line-height: 27px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+    position: relative;
+}
+.hero-service-image > h3 a {
+    color: #ffffff;
+}
+.hero-service-image:hover > h3 a {
+     -webkit-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+    -ms-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    transition: all 200ms ease-in;
+}
+.hero-service-image > p {
+    color: #ffffff;
+}
+
+.hero-service-color > h3 a{
+    color: #1c314c;
+}
+.hero-service-color:hover > h3 a {
+    color: #ffffff;
+     -webkit-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+    -ms-transition: all 200ms ease-in;
+    -o-transition: all 200ms ease-in;
+    transition: all 200ms ease-in;
+}
+.hero-service-color > p {
+    color: #747474;
+}
+
+.hero-service-box > h3::before {
+    background-image: url("images/srv-box-line.png");
+    content: "";
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    bottom: 0;
+    width: 86px;
+    height: 7px;
+}
+.hero-service-box > p {
+    line-height: 24px;
+    letter-spacing: 0.56px;
+}
+.hero-service-box:hover > p {
+    color: #fff;
+}
+.hero-service-box > a {
+    font-size: 13px;
+    font-weight: bold;
+    display: inline-block;
+    letter-spacing: 0.52px;
+    font-variant: all-caps;
+    margin-top: 20px;
+    padding: 9px 22px 7px;
+    text-decoration: none;
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;
+    -o-transition: all 1s ease 0s;
+    transition: all 1s ease 0s;
+}
+.hero-service-image > a {
+    border: solid 1px #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+}
+.hero-service-image:hover > a {
+    color: #ffffff;
+}
+
+.hero-service-color > a {
+    border: solid 1px #747474;
+    background-color: transparent;
+    color: #747474;
+}
+.hero-service-color:hover > a {
+    border: solid 1px #ffffff;
+    background-color: #ffffff;
+}
+
+/*---------------------------------------
+    Header Cart
+-----------------------------------------*/
+.heropress-cart {
+    background: transparent;
+    width: 35px;
+    height: 35px;
+    position: relative;
+    top: 14px;
+    left: 20px;
+}
+.heropress-cart a.cart-icon i {
+    font-size: 20px;
+    color: #ffffff;
+}
+.heropress-cart a.cart-icon span {
+    position: relative;
+    font-size: 11px;
+    bottom: 33px;
+    left: 15px;
+    color: #ffffff;
+    padding: 2px 6px;
+    border-radius: 50%;
+}
+.is-sticky .heropress-cart a.cart-icon i {
+    color: #202e31;
+}
+/* --------------------------------------
+=========================================
+    HeroPress Breadcrumb Section
+=========================================
+-----------------------------------------*/
+.breadcrumb.hero {
+    position: relative;
+    margin-top: -150px;
+    padding: 80px 0 !important;
+}
+.hero-breadcrumb {
+    position: relative;
+    bottom: -80px;
+    border: solid 1px rgba(0,0,0,0.4);
+    padding: 20px 25px;
+    background: rgba(0,0,0,0.4);
+}
+.hero-breadcrumb h2 {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+/* --------------------------------------
+=========================================
+    HeroPress Blog Section
+=========================================
+-----------------------------------------*/
+.entry-content .more-link {
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 20px;
+    border-radius: 0px;
+    background: transparent;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
+.blog-version-1 article {
+    background: #ffffff !important;
+    margin-bottom: 30px !important;
+    box-shadow: 0px 10px 16px 0px rgba(0, 0, 0, 0.08) 
+}
+.blog-version-1 .article:nth-child(2n+1) { clear:left; }
+.post_date h6 {
+    color: #ffffff;
+}
+.page-wrapper article {
+    border: none;
+    box-shadow: 0px 10px 16px 0px rgba(0, 0, 0, 0.08);
+}
+
+/* --------------------------------------
+=========================================
+    HeroPress Buttons
+=========================================
+-----------------------------------------*/
+button, input[type="button"], 
+input[type="reset"], 
+input[type="submit"],
+.footer-sidebar .widget input[type="submit"], 
+.sidebar .widget input[type="submit"], 
+.footer-sidebar .tagcloud a,
+.sidebar .tagcloud a,
+.top-scroll {
+    border-radius: 0px;
+}
+.woocommerce a.button, .woocommerce button.button.alt, .woocommerce #respond input#submit, .woocommerce input.button.alt, .woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled], .woocommerce-cart table.cart input.button, .woocommerce input.button, .woocommerce button.button, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+    border-radius: 0px;
+}
+
+/*---------------------------------------
+    Search Result
+-----------------------------------------*/ 
+
+.page-wrapper .posts-navigation a {
+    background: transparent;
+    font-family: 'Open Sans', sans-serif;
+    padding: 12px 24px;
+    border-radius: 0px;
+    display: table-cell;
+    float: left;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
+
+.page-wrapper .posts-navigation a:hover {
+    color: #fff;
+}
+
+.page-wrapper .posts-navigation .nav-next {
+    float: right;
+}

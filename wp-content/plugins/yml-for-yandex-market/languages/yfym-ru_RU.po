@@ -1,0 +1,1335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-19 19:29+0300\n"
+"PO-Revision-Date: 2020-01-19 19:29+0300\n"
+"Last-Translator: \n"
+"Language-Team: Maxim Glazunov <djdiplomat477@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: export.php\n"
+"X-Poedit-SearchPath-1: functions.php\n"
+"X-Poedit-SearchPath-2: offer.php\n"
+"X-Poedit-SearchPath-3: yml-for-yandex-market.php\n"
+"X-Poedit-SearchPath-4: extensions.php\n"
+"X-Poedit-SearchPath-5: debug.php\n"
+
+#: debug.php:26 yml-for-yandex-market.php:280
+msgid "Debug page"
+msgstr "Страница отладки"
+
+#: debug.php:32
+msgid "Logs"
+msgstr "Логи"
+
+#: debug.php:33
+msgid "Log-file here"
+msgstr "Логи тут"
+
+#: debug.php:36
+msgid "Keep logs"
+msgstr "Вести логи"
+
+#: debug.php:37
+msgid "Clear logs"
+msgstr "Очистить логи"
+
+#: debug.php:41
+msgid "Do not check this box if you are not a developer"
+msgstr "Не устанавливайте этот флажок, если вы не разработчик"
+
+#: debug.php:45
+msgid "Disable notices"
+msgstr "Отключить уведомления"
+
+#: debug.php:48
+msgid "Disable notices about YML-construct"
+msgstr "Отключить уведомления о YML-сборке"
+
+#: debug.php:52
+msgid "Enable"
+msgstr "Включить"
+
+#: debug.php:55
+msgid "Enable the five minute interval for CRON"
+msgstr "Включить пятиминутный интервал для CRON"
+
+#: debug.php:64 export.php:677
+msgid "Save"
+msgstr "Сохранить"
+
+#: debug.php:65 export.php:678
+msgid "Click to save the settings"
+msgstr "Нажмите, чтобы сохранить настройки"
+
+#: debug.php:74
+msgid "Possible problems"
+msgstr "Возможные проблемы"
+
+#: debug.php:80 export.php:188
+msgid ""
+"Your site has no global attributes! This may affect the quality of the YML "
+"feed. This can also cause difficulties when setting up the plugin"
+msgstr ""
+"Ваш сайт не имеет глобальных атрибутов! Это может повлиять на качество YML-"
+"фида. Это также может вызвать трудности при настройке плагина"
+
+#: debug.php:80 export.php:188
+msgid "Please read the recommendations"
+msgstr "Пожалуйста, прочитайте рекомендации"
+
+#: debug.php:94
+msgid "Most likely, these plugins negatively affect the operation of"
+msgstr "Скорее всего, эти плагины негативно влияют на работу"
+
+#: debug.php:94
+msgid ""
+"If you are a developer of one of the plugins from the list above, please "
+"contact me"
+msgstr ""
+"Если вы разработчик одного из плагинов из списка выше, пожалуйста, свяжитесь "
+"со мной"
+
+#: debug.php:99
+msgid "Self-diagnosis functions did not reveal potential problems"
+msgstr "Функции самодиагностики не выявили потенциальных проблем"
+
+#: debug.php:111 debug.php:114
+msgid "Reset plugin settings"
+msgstr "Сбросить настройки плагина"
+
+#: debug.php:112
+msgid "Reset plugin settings can be useful in the event of a problem"
+msgstr ""
+"Сброс настроек плагина может быть полезен в случае возникновения проблем"
+
+#: debug.php:124 export.php:736
+msgid "Send data about the work of the plugin"
+msgstr "Отправить данные о работе плагина"
+
+#: debug.php:125 export.php:737
+msgid "Sending statistics you help make the plugin even better!"
+msgstr "Пожалуйста, помогите сделать плагин лучше!"
+
+#: debug.php:125 export.php:737
+msgid "The following data will be transferred"
+msgstr "Следующие данные будут переданы"
+
+#: debug.php:127 export.php:739
+msgid "Site URL"
+msgstr "УРЛ сайта"
+
+#: debug.php:128 export.php:740
+msgid "File generation status"
+msgstr "Статус генерации фида"
+
+#: debug.php:129 export.php:741
+msgid "URL YML-feed"
+msgstr "УРЛ YML-фида"
+
+#: debug.php:130 export.php:742
+msgid "Is the multisite mode enabled?"
+msgstr "Включен ли режим multisite?"
+
+#: debug.php:132 export.php:744
+msgid "The plugin helped you download the products to the Yandex Market"
+msgstr "Помог ли Вам плагин загрузить продукцию на Yandex Market"
+
+#: debug.php:135 export.php:334 export.php:438 export.php:448 export.php:747
+msgid "Yes"
+msgstr "Да"
+
+#: debug.php:136 export.php:333 export.php:439 export.php:449 export.php:748
+msgid "No"
+msgstr "Нет"
+
+#: debug.php:138 export.php:750
+msgid ""
+"If you don't mind to be contacted in case of problems, please enter your "
+"email address"
+msgstr ""
+"Если вы не возражаете, чтобы с Вами связались в случае возникновения "
+"дополнительных вопросов по поводу работы плагина, то укажите Ваш адрес "
+"электронной почты"
+
+#: debug.php:140 export.php:752
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: debug.php:142 export.php:754
+msgid "Send data"
+msgstr "Отправить данные"
+
+#: export.php:175
+msgid "Exporter Yandex Market"
+msgstr "Экспортер Yandex Market"
+
+#: export.php:178 export.php:689
+msgid ""
+"For the plugin to function correctly, you need a version of WooCommerce 3.0 "
+"and higher! You have version "
+msgstr ""
+"Для правильной работы плагина необходима версия WooCommerce 3.0 и выше! У "
+"Вас установлена версия "
+
+#: export.php:178 export.php:689
+msgid " installed. Please, update WooCommerce"
+msgstr " Пожалуйста, обновите WooCommerce"
+
+#: export.php:178 export.php:194 export.php:199 export.php:204 export.php:689
+msgid "Learn More"
+msgstr "Подробнее"
+
+#: export.php:182
+msgid ""
+"Most likely, the plugin does not work correctly because you turned off the "
+"CRON with the help of the "
+msgstr ""
+"Скорее всего,плагин работает неправильно, потому что вы выключили CRON при "
+"помощи "
+
+#: export.php:194
+msgid ""
+"is an extension that allows you to increase sales by unloading Promotions "
+"(promos, gifts) on the Yandex Market"
+msgstr ""
+"- это расширение, которое позволяет увеличить продажи за счет выгрузки "
+"Промоакций (promos, gifts) на Яндекс Маркет"
+
+#: export.php:196
+msgid "Thank you for purchasing the Promos Export extension"
+msgstr "Спасибо за использование плагина Promos Export"
+
+#: export.php:196 extensions.php:91
+msgid "Read usage case"
+msgstr "Посмотреть пример использования"
+
+#: export.php:199
+msgid "Go to"
+msgstr "Переходи на"
+
+#: export.php:199
+msgid "and"
+msgstr "и"
+
+#: export.php:199
+msgid "keep the advertising budget"
+msgstr "экономь рекламный бюджет"
+
+#: export.php:199
+msgid "on Yandex"
+msgstr "на Яндексе"
+
+#: export.php:201
+msgid "Thank you for purchasing the Yml for Yandex Market Pro extension"
+msgstr "Спасибо за использование плагина Yml for Yandex Market Pro"
+
+#: export.php:201
+msgid "Read usage tips"
+msgstr "Прочитать советы по использованию"
+
+#: export.php:204
+msgid "extension for exporting products to"
+msgstr "расширение для экспорта товаров на"
+
+#: export.php:206
+msgid ""
+"Thank you for purchasing the Yml for Yandex Market Prom Export extension"
+msgstr "Спасибо за использование плагина Yml for Yandex Market Prom Export"
+
+#: export.php:229
+msgid "Instruction"
+msgstr "Инструкция"
+
+#: export.php:229
+msgid "How to create a YML-feed"
+msgstr "Как создать YML-фид"
+
+#: export.php:235 export.php:697
+msgid "Feed"
+msgstr "Фид"
+
+#: export.php:239
+msgid "Select feed"
+msgstr "Выбрать фид"
+
+#: export.php:248
+msgid "Main parameters"
+msgstr "Основные параметры"
+
+#: export.php:251
+msgid "Automatic file creation"
+msgstr "Автоматическое создание файла"
+
+#: export.php:254
+msgid "Off"
+msgstr "Отключено"
+
+#: export.php:256
+msgid "Every five minutes"
+msgstr "Каждые пять минут"
+
+#: export.php:258
+msgid "Hourly"
+msgstr "Раз в час"
+
+#: export.php:259
+msgid "Every six hours"
+msgstr "Каждые 6 часов"
+
+#: export.php:260
+msgid "Twice a day"
+msgstr "2 раза в день"
+
+#: export.php:261
+msgid "Daily"
+msgstr "Раз в день"
+
+#: export.php:263
+msgid "The refresh interval on your feed"
+msgstr "Интервал обновления вашего фида"
+
+#: export.php:267
+msgid "Update feed when updating products"
+msgstr "Обновить фид при обновлении карточки товара"
+
+#: export.php:274 export.php:281
+msgid "Whot export"
+msgstr "Что экспортировать"
+
+#: export.php:277
+msgid "Simple & Variable products"
+msgstr "Вариативные и обычные товары"
+
+#: export.php:278
+msgid "Only simple products"
+msgstr "Только обычные товары"
+
+#: export.php:285
+msgid "Description of the product"
+msgstr "Описание товара"
+
+#: export.php:288
+msgid "Only Excerpt description"
+msgstr "Только Краткое описание"
+
+#: export.php:289
+msgid "Only Full description"
+msgstr "Только Полное описание"
+
+#: export.php:290
+msgid "Excerpt or Full description"
+msgstr "Краткое или Полное описание"
+
+#: export.php:291
+msgid "Full or Excerpt description"
+msgstr "Полное или Краткое описание"
+
+#: export.php:293
+msgid "The source of the description"
+msgstr "Источник описания товара"
+
+#: export.php:298
+msgid "Shop name"
+msgstr "Название магазина"
+
+#: export.php:301 export.php:308 export.php:477 export.php:484
+#: yml-for-yandex-market.php:363 yml-for-yandex-market.php:370
+#: yml-for-yandex-market.php:398 yml-for-yandex-market.php:405
+#: yml-for-yandex-market.php:440
+msgid "Required element"
+msgstr "Обязательный элемент"
+
+#: export.php:301
+msgid "The short name of the store should not exceed 20 characters"
+msgstr "Короткое название магазина, должно содержать не более 20 символов"
+
+#: export.php:305
+msgid "Company name"
+msgstr "Наименование компании"
+
+#: export.php:308
+msgid "Full name of the company that owns the store"
+msgstr "Полное наименование компании, владеющей магазином"
+
+#: export.php:312
+msgid "What kind of products do you sell?"
+msgstr "Какие товары вы продаете?"
+
+#: export.php:315
+msgid "Electronics"
+msgstr "Электроника"
+
+#: export.php:316
+msgid "Clothes and shoes"
+msgstr "Одежда и обувь"
+
+#: export.php:317
+msgid "Auto parts"
+msgstr "Автозапчасти"
+
+#: export.php:318
+msgid "Products for children"
+msgstr "Детские товары"
+
+#: export.php:319
+msgid "Sporting goods"
+msgstr "Спортивные товары"
+
+#: export.php:320
+msgid "Goods for pets"
+msgstr "Товары для домашних животных"
+
+#: export.php:321
+msgid "Sex shop (Adult products)"
+msgstr "Секс-шоп (товары для взрослых)"
+
+#: export.php:322
+msgid "Books"
+msgstr "Книги"
+
+#: export.php:323
+msgid "Construction Materials"
+msgstr "Строительные материалы"
+
+#: export.php:324
+msgid "Other"
+msgstr "Прочее"
+
+#: export.php:326
+msgid "Specify the main category"
+msgstr "Укажите основную категорию"
+
+#: export.php:330
+msgid "Adult Market"
+msgstr "Магазин для взрослых"
+
+#: export.php:336 export.php:430 export.php:451 export.php:461 export.php:470
+#: export.php:491 export.php:499 export.php:504 export.php:516 export.php:528
+#: export.php:539 export.php:550 export.php:562 export.php:575 export.php:593
+#: export.php:605 export.php:619 export.php:635 export.php:649 export.php:660
+#: yml-for-yandex-market.php:356 yml-for-yandex-market.php:377
+#: yml-for-yandex-market.php:391 yml-for-yandex-market.php:412
+#: yml-for-yandex-market.php:422 yml-for-yandex-market.php:433
+#: yml-for-yandex-market.php:447
+msgid "Optional element"
+msgstr "Необязательный элемент"
+
+#: export.php:340
+msgid "Step of export"
+msgstr "Шаг экспорта"
+
+#: export.php:352
+msgid "The value affects the speed of file creation"
+msgstr "Значение влияет на скорость создания YML фида"
+
+#: export.php:352
+msgid ""
+"If you have any problems with the generation of the file - try to reduce the "
+"value in this field"
+msgstr ""
+"Если у вас возникли проблемы с генерацией файла - попробуйте уменьшить "
+"значение в данном поле"
+
+#: export.php:352
+msgid "More than 500 can only be installed on powerful servers"
+msgstr "Более 500 можно устанавливать только на мощных серверах"
+
+#: export.php:356
+msgid "Categories of variable products for which group_id is not allowed"
+msgstr "Категории вариативных товаров для которых запрещен group_id"
+
+#: export.php:364
+msgid ""
+"According to Yandex Market rules in this field you need to mark ALL "
+"categories of products not related to \"Clothes, Shoes and Accessories\", "
+"\"Furniture\", \"Cosmetics, perfumes and care\", \"Baby products\", "
+"\"Accessories for portable electronics\". Ie categories for which it is "
+"forbidden to use the attribute group_id"
+msgstr ""
+"Согласно правилам Яндекс Маркет в этом поле Вам необходимо отметить ВСЕ "
+"категории товаров не относящиеся к \"Одежда, обувь и аксессуары\", \"Мебель"
+"\", \"Косметика, парфюмерия и уход\", \"Детские товары\", \"Аксессуары для "
+"портативной электроники\". Т.е категории, для которых запрещено использовать "
+"атрибут group_id"
+
+#: export.php:368
+msgid "Add the following attributes to the name"
+msgstr "Подставлять в название след атрибуты"
+
+#: export.php:375
+msgid ""
+"It works only for variable products that are not in the category \"Clothes, "
+"Shoes and Accessories\", \"Furniture\", \"Cosmetics, perfumes and care\", "
+"\"Baby products\", \"Accessories for portable electronics\""
+msgstr ""
+"Работает только для вариативных товаров, входящих в категории не относящихся "
+"к \"Одежда, обувь и аксессуары\", \"Мебель\", \"Косметика, парфюмерия и уход"
+"\", \"Детские товары\", \"Аксессуары для портативной электроники\""
+
+#: export.php:379 export.php:387
+msgid "Separator options"
+msgstr "Варианты разделителя"
+
+#: export.php:382 export.php:383 export.php:384
+msgid "Type"
+msgstr "Тип"
+
+#: export.php:391
+msgid "Skip missing products"
+msgstr "Исключать товары которых нет в наличии"
+
+#: export.php:391
+msgid "except for products for which a pre-order is permitted"
+msgstr "за исключением товаров, для которых разрешен предварительный заказ"
+
+#: export.php:397
+msgid "Skip backorders products"
+msgstr "Исключать из фида товары для предзаказа"
+
+#: export.php:403
+msgid "Remove default.png from YML"
+msgstr "Удалить default.png из YML"
+
+#: export.php:409
+msgid "Skip products without pictures"
+msgstr "Пропустить товары без картинок"
+
+#: export.php:421
+msgid "Price and delivery"
+msgstr "Цена и доставка"
+
+#: export.php:424 yml-for-yandex-market.php:384
+msgid "Pickup"
+msgstr "Самовывоз"
+
+#: export.php:427 export.php:458 export.php:657
+msgid "True"
+msgstr "Да"
+
+#: export.php:428 export.php:459 export.php:658
+msgid "False"
+msgstr "Нет"
+
+#: export.php:430
+msgid "Option to get order from pickup point"
+msgstr "Возможность самовывоза из пунктов выдачи"
+
+#: export.php:435
+msgid "Price from"
+msgstr "Цена от"
+
+#: export.php:441
+msgid "Apply the setting Price from"
+msgstr "Применить параметр Цена от ко всем товарам"
+
+#: export.php:441
+msgid "attribute of"
+msgstr "атрибута"
+
+#: export.php:441
+msgid "Example"
+msgstr "Пример"
+
+#: export.php:445
+msgid "Old price"
+msgstr "Старая цена"
+
+#: export.php:451
+msgid ""
+"In oldprice indicates the old price of the goods, which must necessarily be "
+"higher than the new price (price)"
+msgstr ""
+"В oldprice указывается старая цена товара, которая обязательно должна быть "
+"выше новой цены (price)"
+
+#: export.php:455 yml-for-yandex-market.php:349
+msgid "Delivery"
+msgstr "Доставка"
+
+#: export.php:461
+msgid ""
+"The delivery item must be set to false if the item is prohibited to sell "
+"remotely (jewelry, medicines)"
+msgstr ""
+"Элемент delivery должен обязательно иметь значение false, если товар "
+"запрещено продавать дистанционно (ювелирные изделия, лекарственные средства)."
+
+#: export.php:462 export.php:470 export.php:539 export.php:637 export.php:665
+#: extensions.php:91 extensions.php:105 yml-for-yandex-market.php:346
+#: yml-for-yandex-market.php:422 yml-for-yandex-market.php:447
+msgid "Read more on Yandex"
+msgstr "Прочитать подробности на Яндексе"
+
+#: export.php:467
+msgid "Use delivery-options"
+msgstr "Использовать delivery-options"
+
+#: export.php:474 yml-for-yandex-market.php:360
+msgid "Delivery cost"
+msgstr "Стоимость доставки"
+
+#: export.php:477 export.php:484 export.php:491 yml-for-yandex-market.php:363
+#: yml-for-yandex-market.php:370 yml-for-yandex-market.php:377
+#: yml-for-yandex-market.php:398 yml-for-yandex-market.php:405
+#: yml-for-yandex-market.php:412 yml-for-yandex-market.php:440
+msgid "of attribute"
+msgstr "атрибута"
+
+#: export.php:481 yml-for-yandex-market.php:367
+msgid "Delivery days"
+msgstr "Срок доставки"
+
+#: export.php:488 yml-for-yandex-market.php:374 yml-for-yandex-market.php:409
+msgid "The time"
+msgstr "Время"
+
+#: export.php:491 yml-for-yandex-market.php:377 yml-for-yandex-market.php:412
+msgid "The time in which you need to place an order to get it at this time"
+msgstr "Время, до которого нужно сделать заказ, чтобы получить его в этот срок"
+
+#: export.php:502
+msgid "Use Auto discounts"
+msgstr "Применить автоматический расчет скидок"
+
+#: export.php:508
+msgid "Barcode"
+msgstr "Штрихкод"
+
+#: export.php:511 export.php:523 export.php:535 export.php:547 export.php:558
+#: export.php:570 export.php:582 export.php:600 export.php:612
+#: yml-for-yandex-market.php:429
+msgid "None"
+msgstr "Нет"
+
+#: export.php:512 export.php:524
+msgid "Substitute from SKU"
+msgstr "Подставлять из Артикул"
+
+#: export.php:520
+msgid "Vendor Code"
+msgstr "Артикул"
+
+#: export.php:532
+msgid "Shelf life / service life"
+msgstr "Срок годности / срок службы"
+
+#: export.php:539
+msgid "Shelf life / service life. expiry date / service life"
+msgstr ""
+"Срок годности / срок службы либо дата истечения срока годности / срока службы"
+
+#: export.php:544
+msgid "Mark downloadable products"
+msgstr "Помечать скачиваемые товары"
+
+#: export.php:548
+msgid "On"
+msgstr "Включить"
+
+#: export.php:555
+msgid "Age"
+msgstr "Возраст"
+
+#: export.php:567
+msgid "Model"
+msgstr "Модель"
+
+#: export.php:575
+msgid "Considered obsolete. Do not use the Yandex Market"
+msgstr "Считается устаревшим. Не используется Яндекс Маркетом"
+
+#: export.php:579
+msgid "Vendor"
+msgstr "Производитель"
+
+#: export.php:584 export.php:587
+msgid "Substitute from"
+msgstr "Подставлять из"
+
+#: export.php:597
+msgid "Country of origin"
+msgstr "Страна производитель"
+
+#: export.php:605
+msgid "This element indicates the country where the product was manufactured"
+msgstr "Элемент предназначен для указания страны производства товара"
+
+#: export.php:605
+msgid "A list of possible values"
+msgstr "Список возможных значений"
+
+#: export.php:609
+msgid "Manufacturer warrant"
+msgstr "Гарантия производителя"
+
+#: export.php:613 export.php:614
+msgid "Add to all"
+msgstr "Добавить всем"
+
+#: export.php:619
+msgid ""
+"This element is used for products that have an official manufacturer's "
+"warranty"
+msgstr ""
+"Элемент предназначен для отметки товаров, имеющих официальную гарантию "
+"производителя"
+
+#: export.php:619
+msgid "Product does not have an official warranty"
+msgstr "Товар не имеет официальной гарантии"
+
+#: export.php:619
+msgid "Product has an official warranty"
+msgstr "Товар имеет официальную гарантию"
+
+#: export.php:624 export.php:633
+msgid "Sales notes"
+msgstr "Примечание"
+
+#: export.php:624 export.php:636
+msgid "Attention!"
+msgstr "Внимание!"
+
+#: export.php:624
+msgid "Read more about how this works"
+msgstr "Подробнее о том, как это работает"
+
+#: export.php:627
+msgid "Disable use of Sales notes"
+msgstr "Запретить выгрузку Sales notes"
+
+#: export.php:632
+msgid ""
+"If the attribute from the select is absent from the product, then substitute"
+msgstr "Если атрибут из селекта выше отсутствует у товара, то подставить"
+
+#: export.php:636
+msgid ""
+"The text may be up to 50 characters in length. Also in the item is forbidden "
+"to specify the terms of delivery and price reduction (discount on "
+"merchandise)"
+msgstr ""
+"Не более 50 символов. Также в элементе запрещено указывать условия доставки "
+"и снижение цены (скидку на товар)"
+
+#: export.php:641
+msgid "Include these attributes in the values Param"
+msgstr "Включить эти атрибуты в фид"
+
+#: export.php:650
+msgid "Hint"
+msgstr "Совет"
+
+#: export.php:650
+msgid ""
+"To select multiple values, hold down the (ctrl) button on Windows or (cmd) "
+"on a Mac. To deselect, press and hold (ctrl) or (cmd), click on the marked "
+"items"
+msgstr ""
+"Чтобы выбрать несколько значений, удерживайте нажатой кнопку (ctrl) в "
+"Windows или (cmd) на Mac. Чтобы отменить выбор, нажмите и удерживайте (ctrl) "
+"или (cmd), нажмите на отмеченные элементы"
+
+#: export.php:654
+msgid "Store"
+msgstr "Запас"
+
+#: export.php:662
+msgid "true"
+msgstr "да"
+
+#: export.php:662
+msgid "The product can be purchased in retail stores"
+msgstr "Товар можно купить без предварительного заказа"
+
+#: export.php:663
+msgid "false"
+msgstr "нет"
+
+#: export.php:663
+msgid "the product cannot be purchased in retail stores"
+msgstr "товар нельзя купить без предварительного заказа"
+
+#: export.php:697
+msgid "not created yet"
+msgstr "еще не создавался"
+
+#: export.php:697
+msgid "updating"
+msgstr "обновляется"
+
+#: export.php:697
+msgid "created"
+msgstr "создан"
+
+#: export.php:700 export.php:707
+msgid "We are working on automatic file creation. YML will be developed soon."
+msgstr ""
+"Идет автоматическое создание файла. Yml-фид в скором времени будет создан."
+
+#: export.php:702
+msgid ""
+"In order to do that, select another menu entry (which differs from \"off\") "
+"in the box called \"Automatic file creation\". You can also change values in "
+"other boxes if necessary, then press \"Save\"."
+msgstr ""
+"Для этого в поле \"Автоматическое создание файла\" выставите значение, "
+"отличное от значения \"отключено\", при необходимости измените значение "
+"других полей и нажмите \"Сохранить\"."
+
+#: export.php:703
+msgid ""
+"After 1-7 minutes (depending on the number of products), the feed will be "
+"generated and a link will appear instead of this message."
+msgstr ""
+"Через 1 - 7 минут (зависит от числа товаров), фид будет сгенерирован и "
+"вместо данного сообщения появится ссылка."
+
+#: export.php:709
+msgid "Your YML feed here"
+msgstr "Ваш фид здесь"
+
+#: export.php:710
+msgid "Generated"
+msgstr "Сгенерирован"
+
+#: export.php:712
+msgid ""
+"By clicking on \"Save\" you will overwrite the upload file for Yandex Market."
+msgstr "Нажав «Сохранить», вы перезапишете YML для Yandex Market."
+
+#: export.php:715
+msgid ""
+"Please note that Yandex Market checks YML no more than 3 times a day! This "
+"means that the changes on the Yandex Market are not instantaneous!"
+msgstr ""
+"Обратите внимание, что Yandex Market проверяет YML не чаще 3-х раз в день! "
+"Это означает, что изменения на Yandex Market не мгновенны!"
+
+#: export.php:721
+msgid "Please support the project!"
+msgstr "Пожалуйста, поддержите проект!"
+
+#: export.php:722
+msgid "Thank you for using the plugin"
+msgstr "Спасибо за использование плагина"
+
+#: export.php:723
+msgid "Please help make the plugin better"
+msgstr "Пожалуйста, помогите сделать плагин лучше"
+
+#: export.php:723
+msgid "answering 6 questions"
+msgstr "ответив на 6 вопросов"
+
+#: export.php:724
+msgid "If this plugin useful to you, please support the project one way"
+msgstr "Если этот плагин полезен вам, пожалуйста, поддержите проект"
+
+#: export.php:726
+msgid "Leave a comment on the plugin page"
+msgstr "Оставьте комментарий на странице плагина"
+
+#: export.php:727
+msgid "Support the project financially. Even $2 is a help!"
+msgstr "Поддержите проект деньгами. Даже 100 рублей - это помощь!"
+
+#: export.php:727
+msgid "Donate now"
+msgstr "Поддержать проект"
+
+#: export.php:728
+msgid "Noticed a bug or have an idea how to improve the quality of the plugin?"
+msgstr "Заметили ошибку или есть идея как улучшить качество плагина?"
+
+#: export.php:728
+msgid "Let me know"
+msgstr "Напишите мне"
+
+#: export.php:730
+msgid "The author of the plugin Maxim Glazunov"
+msgstr "С уважением, Максим Глазунов"
+
+#: export.php:731
+msgid "Accept orders for individual revision of the plugin"
+msgstr "Принимаю заказы на индивидуальные доработки плагина"
+
+#: export.php:731
+msgid "Leave a request"
+msgstr "Оставить заявку"
+
+#: extensions.php:5
+msgid "Extensions for Yml for Yandex Market"
+msgstr "Расширения для Yml for Yandex Market"
+
+#: extensions.php:16
+msgid "The ability to exclude goods from certain categories"
+msgstr "Возможность исключать товары из определенных категорий"
+
+#: extensions.php:17
+msgid "Ability to exclude goods by certain tags"
+msgstr "Возможность исключать товары по определенным тегам"
+
+#: extensions.php:18
+msgid "The ability to exclude products at a price"
+msgstr "Возможность исключать товары по цене"
+
+#: extensions.php:19
+msgid "Ability to assign labels as categories"
+msgstr "Возможность назначать метки в качестве категорий"
+
+#: extensions.php:20
+msgid "Ability to download multiple images for products instead of one"
+msgstr "Возможность загрузки нескольких изображений для товара вместо одного"
+
+#: extensions.php:21
+msgid ""
+"Ability to specify a product with a category tree identical to the category "
+"tree on the Yandex Market"
+msgstr ""
+"Возможность прописать товару дерево категорий идентичное дереву категорий на "
+"Яндекс Маркет"
+
+#: extensions.php:22
+msgid "Ability to remove the Visual Composer shortcodes from the description"
+msgstr "Возможность удалять шорткоды Visual Composer из описания"
+
+#: extensions.php:23
+msgid ""
+"The ability to add one attribute to the beginning of the product name, add "
+"three attributes to the end of the product name. The function may be needed "
+"when unloading goods on the site rozetka.com.ua and similar"
+msgstr ""
+"Возможность добавить один атрибут в начало названия товара и три атрибута в "
+"конец названия товара. Функция может понадобиться при выгрузке товаров на "
+"сайт rozetka.com.ua и аналогичные"
+
+#: extensions.php:24
+msgid "Support UTM tags"
+msgstr "Поддержка UTM меток"
+
+#: extensions.php:25 extensions.php:26
+msgid "any text you specify, for example"
+msgstr "любой текст, который вы укажете, например"
+
+#: extensions.php:27
+msgid "Category ID or Product ID"
+msgstr "ID категории или ID товара"
+
+#: extensions.php:29
+msgid "product ID"
+msgstr "ID товара"
+
+#: extensions.php:30
+msgid "Dimension Grid Support. For example"
+msgstr "Поддержка размерной сетки. Например"
+
+#: extensions.php:34
+msgid "Even more stable work"
+msgstr "Еще более стабильная работа"
+
+#: extensions.php:36
+msgid "Get Yml for Yandex Market Pro Now"
+msgstr "Получить Yml for Yandex Market Pro сейчас"
+
+#: extensions.php:47
+msgid ""
+"This extension adds to the plugin support for special attributes needed to "
+"export products on prom.ua"
+msgstr ""
+"Это расширение добавляет в плагин поддержку специальных атрибутов, "
+"необходимых для экспорта товаров на prom.ua"
+
+#: extensions.php:49
+msgid "Read more on Prom.ua"
+msgstr "Прочитать подробности на prom.ua"
+
+#: extensions.php:50
+msgid "Get Yml for Yandex Market Prom Export Now"
+msgstr "Получить Yml for Yandex Market Prom Export сейчас"
+
+#: extensions.php:63
+msgid ""
+"This extension adds to the plugin support for special attributes needed to "
+"export products on"
+msgstr ""
+"Это расширение добавляет в плагин поддержку специальных атрибутов, "
+"необходимых для экспорта товаров на"
+
+#: extensions.php:65
+msgid "Read more on rozetka.com.ua"
+msgstr "Прочитать подробности на rozetka.com.ua"
+
+#: extensions.php:66
+msgid "Get Yml for Yandex Market Rozetka Export Now"
+msgstr "Получить Yml for Yandex Market Rozetka Export сейчас"
+
+#: extensions.php:81
+msgid ""
+"This extension allows you to transfer information about various stores "
+"promotions, such as"
+msgstr ""
+"Это расширение позволяет передавать информацию о различных рекламных акциях "
+"магазинов, таких как"
+
+#: extensions.php:83
+msgid "Promo Code"
+msgstr "Промо код"
+
+#: extensions.php:84
+msgid "Flash Discount"
+msgstr "Специальная цена"
+
+#: extensions.php:85
+msgid "N+M"
+msgstr "N+M"
+
+#: extensions.php:86
+msgid "Gifts"
+msgstr "Подарки"
+
+#: extensions.php:88
+msgid "Very important"
+msgstr "Очень важно"
+
+#: extensions.php:88
+msgid ""
+"The extension allows you to send information about the \"Gift at Purchase\" "
+"to Yandex Market (see screenshot)"
+msgstr ""
+"Расширение позволяет передавать на Яндекс Маркет информацию о \"Подарок при "
+"покупке\" (см скриншот)"
+
+#: extensions.php:90
+msgid "For successful moderation you need"
+msgstr "Чтобы успешно пройти модерацию, Вам нужно"
+
+#: extensions.php:90
+msgid "self add information"
+msgstr "самостоятельно добавить информацию"
+
+#: extensions.php:90
+msgid ""
+"that the person is entitled to a gift for purchase! Otherwise YOU WILL NOT "
+"TAKE A MODERATION on Yandex Market"
+msgstr ""
+"о том, что за покупку человеку полагается подарок! Если этого не сделать, то "
+"Вы НЕ ПРОЙДЕТЕ МОДЕРАЦИЮ на Яндекс Маркете"
+
+#: extensions.php:90
+msgid "Sure to"
+msgstr "Обязательно"
+
+#: extensions.php:90
+msgid ""
+"BEFORE PURCHASING this extension - add relevant information to your site"
+msgstr ""
+"ПЕРЕД ПОКУПКОЙ этого расширения добавьте соответствующую информацию на Ваш "
+"сайт"
+
+#: extensions.php:92
+msgid "Get Yml for Yandex Market Promos Export Now"
+msgstr "Получить Yml for Yandex Market Promos Export сейчас"
+
+#: extensions.php:103
+msgid ""
+"This extension adds to the plugin support for a special type of export by "
+"Yandex Market for books"
+msgstr ""
+"Это расширение добавляет в плагин специальный вид экспорта Yandex Market для "
+"книг"
+
+#: extensions.php:106
+msgid "Get Yml for Yandex Market Book Export Now"
+msgstr "Получить Yml for Yandex Market Book Export сейчас"
+
+#: yml-for-yandex-market.php:274
+msgid "Export Yandex Market"
+msgstr "Экспорт Yandex Market"
+
+#: yml-for-yandex-market.php:280
+msgid "Debug"
+msgstr "Отладка"
+
+#: yml-for-yandex-market.php:282
+msgid "Add Extensions"
+msgstr "Добавить расширение"
+
+#: yml-for-yandex-market.php:282
+msgid "Extensions"
+msgstr "Расширения"
+
+#: yml-for-yandex-market.php:320
+msgid "Settings delivery options for Yandex Market"
+msgstr "Настройки параметров доставки для Яндекс Маркета"
+
+#: yml-for-yandex-market.php:346
+msgid "Here you can set up individual options terms for this product"
+msgstr ""
+"Здесь вы можете настроить индивидуальные условия доставки для данного товара"
+
+#: yml-for-yandex-market.php:352 yml-for-yandex-market.php:387
+msgid "Use global settings"
+msgstr "Использовать глобальные настройки"
+
+#: yml-for-yandex-market.php:381
+msgid "Here you can configure the pickup conditions for this product"
+msgstr ""
+"Здесь вы можете настроить индивидуальные условия самовывоза для данного "
+"товара"
+
+#: yml-for-yandex-market.php:395
+msgid "Pickup cost"
+msgstr "Стоимость самовывоза"
+
+#: yml-for-yandex-market.php:402
+msgid "Pickup days"
+msgstr "Срок самовывоза"
+
+#: yml-for-yandex-market.php:416 yml-for-yandex-market.php:419
+msgid "Bid values"
+msgstr "Значения ставки"
+
+#: yml-for-yandex-market.php:416 yml-for-yandex-market.php:426
+msgid "Сondition"
+msgstr "Состояние товара"
+
+#: yml-for-yandex-market.php:422
+msgid ""
+"Bid values in your price list. Specify the bid amount in Yandex cents: for "
+"example, the value 80 corresponds to the bid of 0.8 Yandex units. The values "
+"must be positive integers"
+msgstr ""
+"Значения ставок в прайс-листе. Указывайте размер ставки в условных центах: "
+"например, значение 80 соответствует ставке 0,8 у. е. Значения должны быть "
+"целыми и положительными числами"
+
+#: yml-for-yandex-market.php:430
+msgid "Like New"
+msgstr "Как новый"
+
+#: yml-for-yandex-market.php:431
+msgid "Used"
+msgstr "Подержанный"
+
+#: yml-for-yandex-market.php:437
+msgid "Reason"
+msgstr "Причина"
+
+#: yml-for-yandex-market.php:444
+msgid "ID of the loan program"
+msgstr "ID кредитной программы"
+
+#: yml-for-yandex-market.php:613
+msgid "Progress"
+msgstr "Прогресс"
+
+#: yml-for-yandex-market.php:613
+msgid "from"
+msgstr "из"
+
+#: yml-for-yandex-market.php:613
+msgid "products"
+msgstr "товаров"
+
+#: yml-for-yandex-market.php:613
+msgid ""
+"If the progress indicators have not changed within 20 minutes, try reducing "
+"the \"Step of export\" in the plugin settings"
+msgstr ""
+"Если индикаторы прогресса не изменились в течение 20 минут, попробуйте "
+"уменьшить \"Шаг экспорта\" в настройках плагина"
+
+#: yml-for-yandex-market.php:615
+msgid "Prior to the completion of less than 70 seconds"
+msgstr "До завершения менее 70 секунд"
+
+#: yml-for-yandex-market.php:617
+msgid "We are working on automatic file creation. YML will be developed soon"
+msgstr ""
+"Идет автоматическое создание файла. Yml-фид в скором времени будет создан"
+
+#: yml-for-yandex-market.php:625 yml-for-yandex-market.php:633
+#: yml-for-yandex-market.php:641 yml-for-yandex-market.php:649
+msgid "You are using the"
+msgstr "Вы используете"
+
+#: yml-for-yandex-market.php:625 yml-for-yandex-market.php:633
+#: yml-for-yandex-market.php:641 yml-for-yandex-market.php:649
+msgid "plugin of obsolete version"
+msgstr "плагин устаревшей версии"
+
+#: yml-for-yandex-market.php:625 yml-for-yandex-market.php:633
+#: yml-for-yandex-market.php:641 yml-for-yandex-market.php:649
+msgid ""
+"This version does not know how to work with multiple YML-feeds. I highly "
+"recommend upgrading the"
+msgstr ""
+"Эта версия не знает, как работать с несколькими YML-фидами. Я настоятельно "
+"рекомендую обновить"
+
+#: yml-for-yandex-market.php:625 yml-for-yandex-market.php:633
+#: yml-for-yandex-market.php:641 yml-for-yandex-market.php:649
+msgid "version to"
+msgstr "версию до"
+
+#: yml-for-yandex-market.php:625 yml-for-yandex-market.php:633
+#: yml-for-yandex-market.php:641 yml-for-yandex-market.php:649
+msgid "or higher"
+msgstr "или выше"
+
+#: yml-for-yandex-market.php:657
+msgid "WooCommerce is not active!"
+msgstr "Для работы требуется плагин WooCommerce!"
+
+#: yml-for-yandex-market.php:667
+msgid "Plugin has been updated to version"
+msgstr "Плагин был обновлен до версии"
+
+#: yml-for-yandex-market.php:667
+msgid "Please resave the plugin settings"
+msgstr "Пожалуйста, пересохраните настройки плагина"
+
+#: yml-for-yandex-market.php:673
+msgid "Creating the feed is running. You can continue working with the website"
+msgstr "Создание YML-фида запущено. Вы можете продолжить работу с сайтом"
+
+#: yml-for-yandex-market.php:675 yml-for-yandex-market.php:679
+msgid "Updated"
+msgstr "Обновлено"
+
+#: yml-for-yandex-market.php:688
+msgid "Logs were cleared"
+msgstr "Логи были очищены"
+
+#: yml-for-yandex-market.php:690
+msgid "Error accessing log file. The log file may have been deleted previously"
+msgstr "Ошибка доступа к log-файлу. Возможно log-файл был удален ранее"
+
+#: yml-for-yandex-market.php:699
+msgid "The settings have been reset"
+msgstr "Настройки были сброшены"
+
+#: yml-for-yandex-market.php:768
+msgid "The data has been sent. Thank you"
+msgstr "Данные были отправлены. Спасибо"
+
+#~ msgid "Substitute from Perfect Woocommerce Brands"
+#~ msgstr "Подставлять из Perfect Woocommerce Brands"
+
+#~ msgid "Generate your 1st YML feed!"
+#~ msgstr "Создайте ваш 1-й YML фид!"
+
+#~ msgid "Link to your feed"
+#~ msgstr "Ссылка на ваш фид"
+
+#~ msgid "Go to Yml for Yandex Market Pro and"
+#~ msgstr "Переходи на Yml for Yandex Market Pro и"
+
+#~ msgid "Download the"
+#~ msgstr "Загрузите"
+
+#~ msgid "extension"
+#~ msgstr "расширение"
+
+#~ msgid "All"
+#~ msgstr "Всё"
+
+#~ msgid "Plugin YML for Yandex Market has been updated!"
+#~ msgstr "Плагин YML for Yandex Market был обновлен!"
+
+#~ msgid "On the plugin settings page click on the"
+#~ msgstr "На странице настроек плагина нажмите на кнопку"
+
+#~ msgid "In the absence of a substitute"
+#~ msgstr "Если отсутствует, то подставить"
+
+#~ msgid "Expiry"
+#~ msgstr "Окончание"
+
+#~ msgid "Not selected"
+#~ msgstr "Всё, кроме выбранных"
+
+#~ msgid "Sales notes will be added to all items, if you complete this field"
+#~ msgstr "Sales notes будет добавлен ко всем товарам, если заполнить это поле"
+
+#~ msgid "Work is under way on this extension"
+#~ msgstr "Ведется работа над этим расширением"
+
+#~ msgid "If you have any ideas how to make the plugin better"
+#~ msgstr "Если у вас есть идеи, как сделать плагин лучше"
+
+#~ msgid "Perhaps, it is your idea that will enter this extension"
+#~ msgstr "Возможно, ваша идея войдет в данное расширение"
+
+#~ msgid "Get Special Offer Now"
+#~ msgstr "Получите специальное предложение сейчас"
+
+#~ msgid "Adult store?"
+#~ msgstr "Магазин для взрослых?"
+
+#~ msgid "Settings"
+#~ msgstr "Настройки"
+
+#~ msgid "Settings Maps for WP"
+#~ msgstr "Настройки Maps for WP"
+
+#~ msgid "Text when you hover over a point"
+#~ msgstr "Текст при наведении на точку"
+
+#~ msgid "The image point on the map (36×36)"
+#~ msgstr "Иконка точки на карте (36×36)"
+
+#~ msgid "Zoom map with many points"
+#~ msgstr "Масштаб карты с множеством точек"
+
+#~ msgid "Latitude center map with many points"
+#~ msgstr "Широта центра карты с множеством точек"
+
+#~ msgid "Longitude center map with many points"
+#~ msgstr "Долгота карты с множеством точек"
+
+#~ msgid "Zoom map with one point"
+#~ msgstr "Масштаб карты с одной точкой"
+
+#~ msgid "Latitude map with one point"
+#~ msgstr "Широтка карты с одной точкой"
+
+#~ msgid "Longitude map with one point"
+#~ msgstr "Долготак карты с одной точкой"
+
+#~ msgid "Location"
+#~ msgstr "Местоположение"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Longitude"
+#~ msgstr "Долгота"
+
+#~ msgid "Country"
+#~ msgstr "Страна"
+
+#~ msgid "Region"
+#~ msgstr "Регион"
+
+#~ msgid "Subadministrative"
+#~ msgstr "Район"
+
+#~ msgid "City"
+#~ msgstr "Город"
+
+#~ msgid "The exact address"
+#~ msgstr "Точный адрес"
+
+#~ msgid "Container Yandex Maps"
+#~ msgstr "Блок Yandex Maps"

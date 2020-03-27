@@ -1,0 +1,277 @@
+@media only screen and (min-width: 200px) and (max-width: 480px) {
+    section.header-top-info-3 {
+		display: none;
+	}
+	header.hero {
+		position: relative;
+		background: transparent;
+		padding-top: 0;
+		z-index: 5;
+	}
+	header.hero .sticky-wrapper {
+		background: transparent;
+		top: 0;
+		left: 0;
+		right: 0;
+		z-index: 5;
+		
+	}
+	.heropress-cart {
+		display: none;
+	}
+	.hero .is-sticky{
+		background-color: #fff !important;
+	}
+	.hero .is-sticky nav.navbar {
+		background: #fff !important;
+		webkit-box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.175);
+		box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.175);
+		color: #747474;
+	}
+	.hero .navbar-default .navbar-nav > li {
+		background: #fdc236 !important;
+		color: #ffffff !important;
+	}
+    .navbar > .container .navbar-brand {
+        margin: 0 auto;
+    }
+	.is-sticky .navbar-brand, .is-sticky p.site-description, .navbar-brand, p.site-description{
+		color: #202e31 !important;
+	}
+	.breadcrumb-position {
+		text-align: left;
+	}
+    .page-breadcrumb {
+		text-align: right;
+    }
+	ul.payment-icon {
+		text-align: left;
+	}
+	
+    /*---------------------------------------
+    Home Slider
+    -----------------------------------------*/
+    .slider-version-three{
+		margin: 0;
+		top: 0px;
+		position: relative;
+	}
+   .slider-version-three .caption {
+		margin: auto;
+		width: 70%;
+    }
+    .slider-version-three .caption h1 {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+		text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+    }
+
+    .slider-version-three .caption p {
+        font-weight: normal;
+        font-size: 13px;
+		text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+    }
+    .slider-version-three .item{
+        min-height: 250px;
+    }
+    .slider-version-three .item img{
+        min-height: 250px;
+        background-size: 
+    }
+    .slider-version .owl-controls .owl-dots .owl-dot{
+        display: none;
+    }
+    .specia-btn-3{
+    background: transparent;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 6px 12px;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+    }
+    .specia-btn-3:hover{
+         -webkit-transition: all 200ms ease-out;
+           -moz-transition: all 200ms ease-out;
+             -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+	.slider-version-three {
+		margin-top: -100px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    section.header-top-info-3 {
+		display: none;
+	}
+	header.hero {
+		position: relative;
+		background: transparent;
+		padding-top: 0;
+		z-index: 5;
+	}
+	header.hero .sticky-wrapper {
+		background: transparent;
+		top: 0;
+		left: 0;
+		right: 0;
+		z-index: 5;
+		
+	}
+	.heropress-cart {
+		display: none;
+	}
+	.hero .is-sticky{
+		background-color: #fff !important;
+	}
+
+	.hero .is-sticky nav.navbar {
+		background: #fff !important;
+		webkit-box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.175);
+		box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.175);
+		color: #747474;
+	}
+	.is-sticky .navbar-brand, .is-sticky p.site-description {
+		color: #202e31 !important;
+	}
+	.breadcrumb-position {
+		text-align: left;
+	}
+    .page-breadcrumb {
+		text-align: right;
+    }
+	ul.payment-icon {
+		text-align: left;
+	}
+
+    /*---------------------------------------
+    Home Slider
+    -----------------------------------------*/
+.    .slider-version-three{
+		margin: 0;
+		top: -86px;
+		position: relative;
+	}
+	.slider-version-three .caption {
+		margin: auto;
+		width: 70%;
+	}
+    .slider-version-three .caption h1 {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+		text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+    }
+
+    .slider-version-three .caption p {
+        font-weight: normal;
+        font-size: 13px;
+		text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+    }
+    .slider-version-three .item{
+        min-height: 250px;
+    }
+    .slider-version-three .item img{
+        min-height: 250px;
+        background-size: 
+    }
+    .slider-version .owl-controls .owl-dots .owl-dot{
+        display: none;
+    }
+    .specia-btn-3{
+        background: transparent;
+        font-size: 13px;
+        font-family: 'Open Sans', sans-serif;
+        padding: 6px 12px;
+        -webkit-transition: all 200ms ease-out;
+           -moz-transition: all 200ms ease-out;
+             -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+    }
+    .specia-btn-3:hover{
+         -webkit-transition: all 200ms ease-out;
+           -moz-transition: all 200ms ease-out;
+             -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+    
+    /*---------------------------------------
+    Home Slider
+    -----------------------------------------*/
+	.slider-version-three {
+		margin: 0;
+		margin-top: -184px;
+	}
+	
+	section.header-top-info-3 {
+		display: none;
+	}
+	.is-sticky .navbar-brand, .is-sticky p.site-description {
+		color: #202e31 !important;
+	}
+	.slider-version-three {
+		margin: 0;
+		top: -186px;
+		position: relative;
+	}
+	.slider-version-three .caption {
+		margin: auto;
+		width: 70%;
+	}
+    .slider-version-three .caption h1 {
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 30px;
+		text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+    }
+
+    .slider-version-three .caption p {
+        font-weight: normal;
+        font-size: 13px;
+		text-shadow: 0 3px 3px rgba(0, 0, 0, 0.5);
+    }
+    .slider-version-three .item{
+        min-height: 250px;
+    }
+    .slider-version-three .item img{
+        min-height: 250px;
+        background-size: 
+    }
+    
+    .specia-btn-3{
+		background: transparent;
+		color: #ffffff;
+		font-size: 13px;
+		font-family: 'Open Sans', sans-serif;
+		padding: 12px 24px;
+		-webkit-transition: all 200ms ease-out;
+		   -moz-transition: all 200ms ease-out;
+			 -o-transition: all 200ms ease-out;
+				transition: all 200ms ease-out;
+    }
+    .specia-btn-3:hover {
+         -webkit-transition: all 200ms ease-out;
+           -moz-transition: all 200ms ease-out;
+             -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+    }
+	ul.payment-icon {
+		text-align: left;
+	}
+}
+@media only screen max-width: 1200px {
+	.slider-version-three {
+		margin: 0;
+		top: -150px;
+		position: relative;
+	}
+}

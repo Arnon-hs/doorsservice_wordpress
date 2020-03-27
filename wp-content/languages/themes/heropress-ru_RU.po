@@ -1,0 +1,92 @@
+# Translation of Themes - HeroPress in Russian
+# This file is distributed under the same license as the Themes - HeroPress package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-25 20:43:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - HeroPress\n"
+
+#. Description of the theme
+msgid "HeroPress is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. It fits for business, portfolio, food & restaurant, gym & fitness, spa salon, medical practitioner & hospitals, landing pages, product pages, corporate business, digital agency, product showcase, financial advisor, accountant, law firm, wealth advisor, photography, personal, and any eCommerce stores. HeroPress premium version provides you more than 10 different designs and supports popular plugins WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO and many more. View the demo of HeroPress Premium https://demo.speciatheme.com/pro/?theme=heropress"
+msgstr "HeroPress — это популярная тема WordPress с множеством сильных функций. Она мгновенно придаст профессиональный вид вашему онлайн присутствию. Подходит для бизнеса, портфолио, кулинарии и ресторанов, спортивных залов и фитнеса, спа-салонов, медицинских учреждений и больниц, лендингов, страниц товаров, корпораций, цифровых агентств, витрин товаров, финансовых консультантов и советников, бухгалтерии, юристов, фотографов, личных сайтов и любых магазинов электронной коммерции. Премиум-версия поддерживает более 10 различных макетов и поддерживает популярные плагины WPML, Polylang, WooCommerce, Contact Form 7, Revolution Slider, Elementor, Visual Composer, WP-Forms, Ninja Forms, Jetpack, WP-Featherlight, Give (WordPress Donation Plugin), Gravity Forms, Yoast SEO и многие другие. Демо премиум-версии HeroPress по ссылке: https://demo.speciatheme.com/pro/?theme=heropress"
+
+#. Theme Name of the theme
+msgid "HeroPress"
+msgstr "HeroPress"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customize/heropress-premium.php:26
+msgid "Support Center"
+msgstr "Центр поддержки"
+
+#: inc/customize/heropress-premium.php:24
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/customize/heropress-premium.php:22
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: inc/customize/heropress-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Обновить до Premium"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Домашняя страница 1"
+
+#: sections/specia-service.php:65 sections/specia-slider.php:61
+msgid "Read More"
+msgstr "Читать далее"
+
+#: sections/specia-navigation.php:31
+msgid "Toggle navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#: sections/specia-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Архив рубрик: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#. Theme URI of the theme
+msgid "https://speciatheme.com/heropress-free/"
+msgstr "https://speciatheme.com/heropress-free/"
+
+#. Author URI of the theme
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the theme
+msgid "Specia"
+msgstr "Specia"

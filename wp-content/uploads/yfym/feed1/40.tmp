@@ -1,0 +1,13 @@
+<offer  id="40" available="true" >
+<name>Тенниска</name>
+<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
+<picture>http://doors/wp-content/uploads/2020/01/polo.jpg</picture>
+<url>http://doors/product/polo/</url>
+<price>20</price>
+<currencyId>RUR</currencyId>
+<manufacturer_warranty>true</manufacturer_warranty>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>true</delivery>
+<categoryId>19</categoryId>
+</offer>
